@@ -1,0 +1,4002 @@
+2019-02-14T06:38:58.052Z - normal: Load ~/.CocosCreator/settings.json
+2019-02-14T06:38:58.056Z - normal: checking language setting...
+2019-02-14T06:38:58.056Z - normal: Language: zh
+2019-02-14T06:38:58.873Z - success: protocol editor-framework registered
+2019-02-14T06:38:58.873Z - success: protocol app registered
+2019-02-14T06:38:58.873Z - success: protocol theme registered
+2019-02-14T06:38:58.873Z - success: protocol packages registered
+2019-02-14T06:38:58.874Z - success: protocol unpack registerred
+2019-02-14T06:38:58.874Z - success: protocol disable-commonjs registerred
+2019-02-14T06:38:58.986Z - normal: connected!
+2019-02-14T06:38:58.989Z - normal: Check project /Users/liujingyan/weixin/cocosClient
+2019-02-14T06:38:58.991Z - normal: Initializing Cocos2d
+2019-02-14T06:38:59.225Z - normal: Initializing Asset Database
+2019-02-14T06:38:59.260Z - success: protocol uuid registerred
+2019-02-14T06:38:59.260Z - success: protocol db registerred
+2019-02-14T06:38:59.260Z - success: protocol thumbnail registerred
+2019-02-14T06:38:59.260Z - normal: Loading editor/builtin packages
+2019-02-14T06:38:59.280Z - success: anysdk loaded
+2019-02-14T06:38:59.449Z - success: assets loaded
+2019-02-14T06:38:59.454Z - success: builder loaded
+2019-02-14T06:38:59.456Z - success: cocos-analytics loaded
+2019-02-14T06:38:59.485Z - success: console loaded
+2019-02-14T06:38:59.526Z - success: fb-instant-games loaded
+2019-02-14T06:38:59.531Z - success: hierarchy loaded
+2019-02-14T06:38:59.538Z - success: inspector loaded
+2019-02-14T06:38:59.540Z - success: keystore loaded
+2019-02-14T06:38:59.545Z - success: node-library loaded
+2019-02-14T06:38:59.547Z - success: package-asset loaded
+2019-02-14T06:38:59.549Z - success: preferences loaded
+2019-02-14T06:38:59.553Z - success: project-exporter loaded
+2019-02-14T06:38:59.575Z - success: project-importer loaded
+2019-02-14T06:38:59.578Z - success: project-settings loaded
+2019-02-14T06:38:59.583Z - success: ui-kit loaded
+2019-02-14T06:38:59.589Z - success: ui-grid loaded
+2019-02-14T06:38:59.594Z - success: scene loaded
+2019-02-14T06:38:59.595Z - success: sprite-editor loaded
+2019-02-14T06:38:59.601Z - success: store loaded
+2019-02-14T06:38:59.608Z - success: timeline loaded
+2019-02-14T06:38:59.608Z - normal: Loading builtin packages
+2019-02-14T06:38:59.613Z - success: asset-db-debugger loaded
+2019-02-14T06:38:59.615Z - success: color-picker loaded
+2019-02-14T06:38:59.619Z - success: package-manager loaded
+2019-02-14T06:38:59.621Z - success: qqplay-adapter loaded
+2019-02-14T06:38:59.629Z - success: sdkbox loaded
+2019-02-14T06:38:59.635Z - success: tester loaded
+2019-02-14T06:38:59.659Z - success: ui-kit-preview-extra loaded
+2019-02-14T06:38:59.663Z - success: ui-kit-preview loaded
+2019-02-14T06:38:59.667Z - success: ui-tree loaded
+2019-02-14T06:38:59.669Z - success: weapp-adapter loaded
+2019-02-14T06:39:00.740Z - normal: Initializing project /Users/liujingyan/weixin/cocosClient
+2019-02-14T06:39:00.743Z - normal: Loading packages
+2019-02-14T06:39:00.749Z - normal: Watching packages
+2019-02-14T06:39:00.860Z - normal: Run Application
+2019-02-14T06:39:01.883Z - success: preview server running at http://localhost:7457
+2019-02-14T06:39:05.938Z - normal: 1.9.3
+2019-02-14T06:39:06.202Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T06:39:06.202Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T06:40:34.774Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T06:40:34.776Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T06:41:00.090Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T06:41:00.092Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T06:41:00.092Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T06:41:00.449Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T06:41:02.305Z - normal: Compiled project javascript file successfully
+2019-02-14T06:41:02.305Z - normal: Start building assets
+2019-02-14T06:41:02.305Z - normal: Start spawn build-worker
+2019-02-14T06:41:02.985Z - normal: Finish spawn build-worker
+2019-02-14T06:41:02.985Z - normal: Start init build-worker
+2019-02-14T06:41:04.924Z - normal: 1.9.3
+2019-02-14T06:41:05.015Z - normal: Finish init build-worker
+2019-02-14T06:41:05.016Z - normal: Start build-assets in worker
+2019-02-14T06:41:05.195Z - normal: Finish build-assets in worker
+2019-02-14T06:41:05.198Z - normal: Finish building assets
+2019-02-14T06:41:05.202Z - normal: Start building raw assets
+2019-02-14T06:41:05.203Z - normal: Start building plugin scripts
+2019-02-14T06:41:05.245Z - normal: Finish building raw assets
+2019-02-14T06:41:05.251Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T06:41:06.772Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T06:41:11.501Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2019-02-14T06:41:11.501Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2019-02-14T06:41:12.085Z - normal: Initializing...
+
+2019-02-14T06:41:12.090Z - normal: idePortFile: /Users/liujingyan/Library/Application Support/微信web开发者工具/Default/.ide
+
+2019-02-14T06:41:12.107Z - normal: starting ide...
+
+2019-02-14T06:41:15.916Z - normal: IDE server has started, listening on http://127.0.0.1:25576
+
+2019-02-14T06:41:15.921Z - normal: initialization finished
+
+2019-02-14T06:41:16.038Z - error: StatusCodeError: 400 - "{\"code\":40000,\"error\":\"错误 需要重新登录\"}"
+
+    at Socket.<anonymous> (/Applications/CocosCreator_1.9.app/Contents/Resources/app.asar/editor/core/wechat-game.js:1:1302)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+2019-02-14T06:41:41.397Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2019-02-14T06:41:41.397Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2019-02-14T06:41:41.732Z - normal: Initializing...
+
+2019-02-14T06:41:41.737Z - normal: idePortFile: /Users/liujingyan/Library/Application Support/微信web开发者工具/Default/.ide
+
+2019-02-14T06:41:41.750Z - normal: starting ide...
+
+2019-02-14T06:41:44.949Z - normal: IDE server has started, listening on http://127.0.0.1:64125
+
+2019-02-14T06:41:44.959Z - normal: initialization finished
+
+2019-02-14T06:41:45.235Z - error: StatusCodeError: 400 - "{\"code\":40000,\"error\":\"错误 {\\\"code\\\":400003,\\\"error\\\":\\\"已存在相同 AppID 和 projectname 的项目（路径），请修改后重试\\\"}\"}"
+
+    at Socket.<anonymous> (/Applications/CocosCreator_1.9.app/Contents/Resources/app.asar/editor/core/wechat-game.js:1:1302)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:191:7)
+    at readableAddChunk (_stream_readable.js:178:18)
+    at Socket.Readable.push (_stream_readable.js:136:10)
+    at Pipe.onread (net.js:560:20)
+2019-02-14T06:45:08.667Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": true,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T06:45:08.676Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T06:45:08.677Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/helloworld
+2019-02-14T06:45:08.678Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/helloworld/**/*
+2019-02-14T06:45:10.445Z - normal: Compiled project javascript file successfully
+2019-02-14T06:45:10.446Z - normal: Start building assets
+2019-02-14T06:45:10.446Z - normal: Start spawn build-worker
+2019-02-14T06:45:11.162Z - normal: Finish spawn build-worker
+2019-02-14T06:45:11.163Z - normal: Start init build-worker
+2019-02-14T06:45:13.225Z - normal: 1.9.3
+2019-02-14T06:45:13.314Z - normal: Finish init build-worker
+2019-02-14T06:45:13.314Z - normal: Start build-assets in worker
+2019-02-14T06:45:13.470Z - normal: Finish build-assets in worker
+2019-02-14T06:45:13.472Z - normal: Finish building assets
+2019-02-14T06:45:13.479Z - normal: Start building raw assets
+2019-02-14T06:45:13.480Z - normal: Start building plugin scripts
+2019-02-14T06:45:13.531Z - normal: Finish building raw assets
+2019-02-14T06:45:13.535Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T06:45:14.688Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T06:49:25.152Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T06:49:25.155Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T06:49:42.370Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T06:49:42.371Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T06:49:59.268Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T06:49:59.269Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T06:52:17.209Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T06:52:17.211Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T06:53:49.430Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T06:53:49.430Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T06:55:49.573Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T06:55:49.582Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:00:56.067Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:00:56.069Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:02:01.259Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": true,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T07:02:01.262Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T07:02:01.263Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/helloworld
+2019-02-14T07:02:01.263Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/helloworld/**/*
+2019-02-14T07:02:03.020Z - normal: Compiled project javascript file successfully
+2019-02-14T07:02:03.020Z - normal: Start building assets
+2019-02-14T07:02:03.021Z - normal: Start spawn build-worker
+2019-02-14T07:02:03.789Z - normal: Finish spawn build-worker
+2019-02-14T07:02:03.789Z - normal: Start init build-worker
+2019-02-14T07:02:05.750Z - normal: 1.9.3
+2019-02-14T07:02:05.825Z - normal: Finish init build-worker
+2019-02-14T07:02:05.825Z - normal: Start build-assets in worker
+2019-02-14T07:02:06.005Z - normal: Finish build-assets in worker
+2019-02-14T07:02:06.007Z - normal: Finish building assets
+2019-02-14T07:02:06.015Z - normal: Start building raw assets
+2019-02-14T07:02:06.015Z - normal: Start building plugin scripts
+2019-02-14T07:02:06.060Z - normal: Finish building raw assets
+2019-02-14T07:02:06.063Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T07:02:07.211Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T07:14:14.746Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:14:14.748Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:14:25.130Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": true,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T07:14:25.131Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T07:14:25.132Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/helloworld
+2019-02-14T07:14:25.132Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/helloworld/**/*
+2019-02-14T07:14:27.015Z - normal: Compiled project javascript file successfully
+2019-02-14T07:14:27.016Z - normal: Start building assets
+2019-02-14T07:14:27.016Z - normal: Start spawn build-worker
+2019-02-14T07:14:27.706Z - normal: Finish spawn build-worker
+2019-02-14T07:14:27.706Z - normal: Start init build-worker
+2019-02-14T07:14:29.756Z - normal: 1.9.3
+2019-02-14T07:14:29.845Z - normal: Finish init build-worker
+2019-02-14T07:14:29.845Z - normal: Start build-assets in worker
+2019-02-14T07:14:30.011Z - normal: Finish build-assets in worker
+2019-02-14T07:14:30.013Z - normal: Finish building assets
+2019-02-14T07:14:30.019Z - normal: Start building raw assets
+2019-02-14T07:14:30.020Z - normal: Start building plugin scripts
+2019-02-14T07:14:30.066Z - normal: Finish building raw assets
+2019-02-14T07:14:30.072Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T07:14:31.246Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T07:14:35.044Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T07:14:35.063Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T07:14:35.063Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T07:14:35.064Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T07:14:36.779Z - normal: Compiled project javascript file successfully
+2019-02-14T07:14:36.780Z - normal: Start building assets
+2019-02-14T07:14:36.780Z - normal: Start spawn build-worker
+2019-02-14T07:14:37.483Z - normal: Finish spawn build-worker
+2019-02-14T07:14:37.484Z - normal: Start init build-worker
+2019-02-14T07:14:39.456Z - normal: 1.9.3
+2019-02-14T07:14:39.541Z - normal: Finish init build-worker
+2019-02-14T07:14:39.541Z - normal: Start build-assets in worker
+2019-02-14T07:14:39.704Z - normal: Finish build-assets in worker
+2019-02-14T07:14:39.708Z - normal: Finish building assets
+2019-02-14T07:14:39.712Z - normal: Start building raw assets
+2019-02-14T07:14:39.712Z - normal: Start building plugin scripts
+2019-02-14T07:14:39.755Z - normal: Finish building raw assets
+2019-02-14T07:14:39.757Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T07:14:40.626Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T07:36:41.521Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:36:41.524Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:36:50.691Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T07:36:50.693Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T07:36:50.693Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T07:36:50.694Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T07:36:52.456Z - normal: Compiled project javascript file successfully
+2019-02-14T07:36:52.456Z - normal: Start building assets
+2019-02-14T07:36:52.456Z - normal: Start spawn build-worker
+2019-02-14T07:36:53.142Z - normal: Finish spawn build-worker
+2019-02-14T07:36:53.143Z - normal: Start init build-worker
+2019-02-14T07:36:55.238Z - normal: 1.9.3
+2019-02-14T07:36:55.313Z - normal: Finish init build-worker
+2019-02-14T07:36:55.314Z - normal: Start build-assets in worker
+2019-02-14T07:36:55.494Z - normal: Finish build-assets in worker
+2019-02-14T07:36:55.496Z - normal: Finish building assets
+2019-02-14T07:36:55.503Z - normal: Start building raw assets
+2019-02-14T07:36:55.504Z - normal: Start building plugin scripts
+2019-02-14T07:36:55.547Z - normal: Finish building raw assets
+2019-02-14T07:36:55.551Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T07:36:56.663Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T07:38:12.901Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T07:38:12.916Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T07:38:12.916Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T07:38:12.919Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T07:38:13.338Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:38:13.339Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:38:14.922Z - normal: Compiled project javascript file successfully
+2019-02-14T07:38:14.922Z - normal: Start building assets
+2019-02-14T07:38:14.923Z - normal: Start spawn build-worker
+2019-02-14T07:38:15.625Z - normal: Finish spawn build-worker
+2019-02-14T07:38:15.625Z - normal: Start init build-worker
+2019-02-14T07:38:17.595Z - normal: 1.9.3
+2019-02-14T07:38:17.673Z - normal: Finish init build-worker
+2019-02-14T07:38:17.673Z - normal: Start build-assets in worker
+2019-02-14T07:38:17.855Z - normal: Finish build-assets in worker
+2019-02-14T07:38:17.858Z - normal: Finish building assets
+2019-02-14T07:38:17.863Z - normal: Start building raw assets
+2019-02-14T07:38:17.863Z - normal: Start building plugin scripts
+2019-02-14T07:38:17.909Z - normal: Finish building raw assets
+2019-02-14T07:38:17.913Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T07:38:19.087Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T07:42:49.976Z - failed: load script [./mySDK] failed : ReferenceError: wx is not defined
+    at __define (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:6:15)
+    at /Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:107:13
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:114:11)
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:117:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-02-14T07:42:49.977Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:42:49.977Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:42:49.979Z - failed: load script [/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js] failed : ReferenceError: wx is not defined
+    at __define (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:6:15)
+    at /Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:107:13
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:114:11)
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:117:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-02-14T07:42:56.211Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T07:42:56.223Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T07:42:56.223Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T07:42:56.224Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T07:42:58.040Z - normal: Compiled project javascript file successfully
+2019-02-14T07:42:58.040Z - normal: Start building assets
+2019-02-14T07:42:58.040Z - normal: Start spawn build-worker
+2019-02-14T07:42:58.788Z - normal: Finish spawn build-worker
+2019-02-14T07:42:58.788Z - normal: Start init build-worker
+2019-02-14T07:43:00.921Z - normal: 1.9.3
+2019-02-14T07:43:01.009Z - failed: load script [./mySDK] failed : ReferenceError: wx is not defined
+    at __define (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:6:15)
+    at /Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:107:13
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:114:11)
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:117:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-02-14T07:43:01.013Z - failed: load script [/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js] failed : ReferenceError: wx is not defined
+    at __define (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:6:15)
+    at /Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:107:13
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:114:11)
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:117:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-02-14T07:43:01.014Z - normal: Finish init build-worker
+2019-02-14T07:43:01.015Z - normal: Start build-assets in worker
+2019-02-14T07:43:01.191Z - warn: Script attached to "root" in scene "helloworld.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/root"
+Asset url: "db://assets/Scene/helloworld.fire"
+Script UUID: "e1b90feb-a217-4493-849d-9a611900d683"
+Class ID: "e1b90/rohdEk4SdmmEZANaD"
+
+2019-02-14T07:43:01.192Z - warn: Script attached to "Canvas" in scene "helloworld.fire" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/Scene/helloworld.fire"
+Script UUID: "e1b90feb-a217-4493-849d-9a611900d683"
+Class ID: "e1b90/rohdEk4SdmmEZANaD"
+
+2019-02-14T07:43:01.265Z - normal: Finish build-assets in worker
+2019-02-14T07:43:01.267Z - normal: Finish building assets
+2019-02-14T07:43:01.276Z - normal: Start building raw assets
+2019-02-14T07:43:01.276Z - normal: Start building plugin scripts
+2019-02-14T07:43:01.319Z - normal: Finish building raw assets
+2019-02-14T07:43:01.326Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T07:43:02.598Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T07:44:36.904Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T07:44:36.911Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T07:44:36.911Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T07:44:36.912Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T07:44:38.755Z - normal: Compiled project javascript file successfully
+2019-02-14T07:44:38.755Z - normal: Start building assets
+2019-02-14T07:44:38.755Z - normal: Start spawn build-worker
+2019-02-14T07:44:39.454Z - normal: Finish spawn build-worker
+2019-02-14T07:44:39.454Z - normal: Start init build-worker
+2019-02-14T07:44:41.562Z - normal: 1.9.3
+2019-02-14T07:44:41.646Z - failed: load script [./mySDK] failed : ReferenceError: wx is not defined
+    at __define (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:6:15)
+    at /Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:107:13
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:114:11)
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:117:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-02-14T07:44:41.649Z - failed: load script [/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js] failed : ReferenceError: wx is not defined
+    at __define (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:6:15)
+    at /Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:107:13
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:114:11)
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:117:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-02-14T07:44:41.650Z - normal: Finish init build-worker
+2019-02-14T07:44:41.650Z - normal: Start build-assets in worker
+2019-02-14T07:44:41.843Z - warn: Script attached to "root" in scene "helloworld.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/root"
+Asset url: "db://assets/Scene/helloworld.fire"
+Script UUID: "e1b90feb-a217-4493-849d-9a611900d683"
+Class ID: "e1b90/rohdEk4SdmmEZANaD"
+
+2019-02-14T07:44:41.844Z - warn: Script attached to "Canvas" in scene "helloworld.fire" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/Scene/helloworld.fire"
+Script UUID: "e1b90feb-a217-4493-849d-9a611900d683"
+Class ID: "e1b90/rohdEk4SdmmEZANaD"
+
+2019-02-14T07:44:41.918Z - normal: Finish build-assets in worker
+2019-02-14T07:44:41.921Z - normal: Finish building assets
+2019-02-14T07:44:41.926Z - normal: Start building raw assets
+2019-02-14T07:44:41.926Z - normal: Start building plugin scripts
+2019-02-14T07:44:41.966Z - normal: Finish building raw assets
+2019-02-14T07:44:41.970Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T07:44:43.191Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T07:45:20.686Z - failed: load script [./mySDK] failed : ReferenceError: wx is not defined
+    at __define (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:6:15)
+    at /Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:107:13
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:114:11)
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:117:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-02-14T07:45:20.689Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:45:20.690Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:45:20.690Z - failed: load script [/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js] failed : ReferenceError: wx is not defined
+    at __define (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:6:15)
+    at /Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:107:13
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:114:11)
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:117:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-02-14T07:45:24.285Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T07:45:24.298Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T07:45:24.298Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T07:45:24.299Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T07:45:26.118Z - normal: Compiled project javascript file successfully
+2019-02-14T07:45:26.118Z - normal: Start building assets
+2019-02-14T07:45:26.118Z - normal: Start spawn build-worker
+2019-02-14T07:45:26.835Z - normal: Finish spawn build-worker
+2019-02-14T07:45:26.835Z - normal: Start init build-worker
+2019-02-14T07:45:28.930Z - normal: 1.9.3
+2019-02-14T07:45:29.012Z - failed: load script [./mySDK] failed : ReferenceError: wx is not defined
+    at __define (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:6:15)
+    at /Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:107:13
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:114:11)
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:117:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-02-14T07:45:29.014Z - failed: load script [/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js] failed : ReferenceError: wx is not defined
+    at __define (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:6:15)
+    at /Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:107:13
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:114:11)
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:117:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-02-14T07:45:29.015Z - normal: Finish init build-worker
+2019-02-14T07:45:29.015Z - normal: Start build-assets in worker
+2019-02-14T07:45:29.137Z - warn: Script attached to "root" in scene "helloworld.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/root"
+Asset url: "db://assets/Scene/helloworld.fire"
+Script UUID: "e1b90feb-a217-4493-849d-9a611900d683"
+Class ID: "e1b90/rohdEk4SdmmEZANaD"
+
+2019-02-14T07:45:29.138Z - warn: Script attached to "Canvas" in scene "helloworld.fire" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/Scene/helloworld.fire"
+Script UUID: "e1b90feb-a217-4493-849d-9a611900d683"
+Class ID: "e1b90/rohdEk4SdmmEZANaD"
+
+2019-02-14T07:45:29.203Z - normal: Finish build-assets in worker
+2019-02-14T07:45:29.206Z - normal: Finish building assets
+2019-02-14T07:45:29.211Z - normal: Start building raw assets
+2019-02-14T07:45:29.212Z - normal: Start building plugin scripts
+2019-02-14T07:45:29.256Z - normal: Finish building raw assets
+2019-02-14T07:45:29.261Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T07:45:30.472Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T07:46:26.462Z - failed: load script [./mySDK] failed : ReferenceError: wx is not defined
+    at __define (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:6:15)
+    at /Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:107:13
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:114:11)
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:117:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-02-14T07:46:26.464Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:46:26.464Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:46:26.464Z - failed: load script [/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js] failed : ReferenceError: wx is not defined
+    at __define (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:6:15)
+    at /Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:107:13
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:114:11)
+    at Object.<anonymous> (/Users/liujingyan/weixin/cocosClient/temp/quick-scripts/assets/Script/mySDK.js:117:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-02-14T07:46:47.453Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:46:47.454Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:46:54.097Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T07:46:54.100Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T07:46:54.101Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T07:46:54.102Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T07:46:55.835Z - normal: Compiled project javascript file successfully
+2019-02-14T07:46:55.835Z - normal: Start building assets
+2019-02-14T07:46:55.836Z - normal: Start spawn build-worker
+2019-02-14T07:46:56.524Z - normal: Finish spawn build-worker
+2019-02-14T07:46:56.524Z - normal: Start init build-worker
+2019-02-14T07:46:58.570Z - normal: 1.9.3
+2019-02-14T07:46:58.655Z - normal: Finish init build-worker
+2019-02-14T07:46:58.655Z - normal: Start build-assets in worker
+2019-02-14T07:46:58.837Z - normal: Finish build-assets in worker
+2019-02-14T07:46:58.839Z - normal: Finish building assets
+2019-02-14T07:46:58.844Z - normal: Start building raw assets
+2019-02-14T07:46:58.845Z - normal: Start building plugin scripts
+2019-02-14T07:46:58.889Z - normal: Finish building raw assets
+2019-02-14T07:46:58.892Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T07:47:00.036Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T07:58:54.369Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:58:54.371Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T07:58:59.100Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T07:58:59.111Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T07:58:59.111Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T07:58:59.112Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T07:59:00.902Z - normal: Compiled project javascript file successfully
+2019-02-14T07:59:00.903Z - normal: Start building assets
+2019-02-14T07:59:00.903Z - normal: Start spawn build-worker
+2019-02-14T07:59:01.612Z - normal: Finish spawn build-worker
+2019-02-14T07:59:01.612Z - normal: Start init build-worker
+2019-02-14T07:59:03.663Z - normal: 1.9.3
+2019-02-14T07:59:03.749Z - normal: Finish init build-worker
+2019-02-14T07:59:03.750Z - normal: Start build-assets in worker
+2019-02-14T07:59:03.934Z - normal: Finish build-assets in worker
+2019-02-14T07:59:03.937Z - normal: Finish building assets
+2019-02-14T07:59:03.942Z - normal: Start building raw assets
+2019-02-14T07:59:03.942Z - normal: Start building plugin scripts
+2019-02-14T07:59:03.986Z - normal: Finish building raw assets
+2019-02-14T07:59:03.988Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T07:59:05.154Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:02:44.708Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:02:44.710Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:02:47.591Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:02:47.602Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:02:47.602Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:02:47.603Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:02:49.325Z - normal: Compiled project javascript file successfully
+2019-02-14T08:02:49.326Z - normal: Start building assets
+2019-02-14T08:02:49.326Z - normal: Start spawn build-worker
+2019-02-14T08:02:50.031Z - normal: Finish spawn build-worker
+2019-02-14T08:02:50.031Z - normal: Start init build-worker
+2019-02-14T08:02:51.993Z - normal: 1.9.3
+2019-02-14T08:02:52.077Z - normal: Finish init build-worker
+2019-02-14T08:02:52.077Z - normal: Start build-assets in worker
+2019-02-14T08:02:52.246Z - normal: Finish build-assets in worker
+2019-02-14T08:02:52.248Z - normal: Finish building assets
+2019-02-14T08:02:52.253Z - normal: Start building raw assets
+2019-02-14T08:02:52.253Z - normal: Start building plugin scripts
+2019-02-14T08:02:52.304Z - normal: Finish building raw assets
+2019-02-14T08:02:52.307Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:02:53.460Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:08:33.793Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:08:33.805Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:08:33.805Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:08:33.806Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:08:34.038Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:08:34.039Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:08:35.621Z - normal: Compiled project javascript file successfully
+2019-02-14T08:08:35.622Z - normal: Start building assets
+2019-02-14T08:08:35.622Z - normal: Start spawn build-worker
+2019-02-14T08:08:36.339Z - normal: Finish spawn build-worker
+2019-02-14T08:08:36.339Z - normal: Start init build-worker
+2019-02-14T08:08:38.429Z - normal: 1.9.3
+2019-02-14T08:08:38.514Z - normal: Finish init build-worker
+2019-02-14T08:08:38.514Z - normal: Start build-assets in worker
+2019-02-14T08:08:38.693Z - normal: Finish build-assets in worker
+2019-02-14T08:08:38.696Z - normal: Finish building assets
+2019-02-14T08:08:38.700Z - normal: Start building raw assets
+2019-02-14T08:08:38.701Z - normal: Start building plugin scripts
+2019-02-14T08:08:38.743Z - normal: Finish building raw assets
+2019-02-14T08:08:38.747Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:08:39.922Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:09:40.584Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:09:40.585Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:12:25.447Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:12:25.459Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:12:25.460Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:12:25.460Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:12:27.221Z - normal: Compiled project javascript file successfully
+2019-02-14T08:12:27.221Z - normal: Start building assets
+2019-02-14T08:12:27.222Z - normal: Start spawn build-worker
+2019-02-14T08:12:27.892Z - normal: Finish spawn build-worker
+2019-02-14T08:12:27.892Z - normal: Start init build-worker
+2019-02-14T08:12:29.904Z - normal: 1.9.3
+2019-02-14T08:12:29.994Z - normal: Finish init build-worker
+2019-02-14T08:12:29.994Z - normal: Start build-assets in worker
+2019-02-14T08:12:30.176Z - normal: Finish build-assets in worker
+2019-02-14T08:12:30.179Z - normal: Finish building assets
+2019-02-14T08:12:30.187Z - normal: Start building raw assets
+2019-02-14T08:12:30.188Z - normal: Start building plugin scripts
+2019-02-14T08:12:30.229Z - normal: Finish building raw assets
+2019-02-14T08:12:30.231Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:12:31.421Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:16:40.484Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:16:40.487Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:16:40.699Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:16:40.710Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:16:40.711Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:16:40.712Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:16:42.445Z - normal: Compiled project javascript file successfully
+2019-02-14T08:16:42.446Z - normal: Start building assets
+2019-02-14T08:16:42.446Z - normal: Start spawn build-worker
+2019-02-14T08:16:43.109Z - normal: Finish spawn build-worker
+2019-02-14T08:16:43.109Z - normal: Start init build-worker
+2019-02-14T08:16:45.102Z - normal: 1.9.3
+2019-02-14T08:16:45.183Z - normal: Finish init build-worker
+2019-02-14T08:16:45.184Z - normal: Start build-assets in worker
+2019-02-14T08:16:45.359Z - normal: Finish build-assets in worker
+2019-02-14T08:16:45.361Z - normal: Finish building assets
+2019-02-14T08:16:45.365Z - normal: Start building raw assets
+2019-02-14T08:16:45.366Z - normal: Start building plugin scripts
+2019-02-14T08:16:45.412Z - normal: Finish building raw assets
+2019-02-14T08:16:45.415Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:16:46.479Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:17:25.357Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:17:25.371Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:17:25.371Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:17:25.374Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:17:25.758Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:17:25.758Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:17:27.300Z - normal: Compiled project javascript file successfully
+2019-02-14T08:17:27.300Z - normal: Start building assets
+2019-02-14T08:17:27.300Z - normal: Start spawn build-worker
+2019-02-14T08:17:27.982Z - normal: Finish spawn build-worker
+2019-02-14T08:17:27.982Z - normal: Start init build-worker
+2019-02-14T08:17:29.981Z - normal: 1.9.3
+2019-02-14T08:17:30.063Z - normal: Finish init build-worker
+2019-02-14T08:17:30.063Z - normal: Start build-assets in worker
+2019-02-14T08:17:30.250Z - normal: Finish build-assets in worker
+2019-02-14T08:17:30.252Z - normal: Finish building assets
+2019-02-14T08:17:30.258Z - normal: Start building raw assets
+2019-02-14T08:17:30.259Z - normal: Start building plugin scripts
+2019-02-14T08:17:30.301Z - normal: Finish building raw assets
+2019-02-14T08:17:30.304Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:17:31.465Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:31:58.731Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:31:58.734Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:31:59.606Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:31:59.618Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:31:59.619Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:31:59.620Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:32:01.626Z - normal: Compiled project javascript file successfully
+2019-02-14T08:32:01.626Z - normal: Start building assets
+2019-02-14T08:32:01.626Z - normal: Start spawn build-worker
+2019-02-14T08:32:02.538Z - normal: Finish spawn build-worker
+2019-02-14T08:32:02.538Z - normal: Start init build-worker
+2019-02-14T08:32:04.681Z - normal: 1.9.3
+2019-02-14T08:32:04.774Z - normal: Finish init build-worker
+2019-02-14T08:32:04.774Z - normal: Start build-assets in worker
+2019-02-14T08:32:04.961Z - normal: Finish build-assets in worker
+2019-02-14T08:32:04.964Z - normal: Finish building assets
+2019-02-14T08:32:04.969Z - normal: Start building raw assets
+2019-02-14T08:32:04.970Z - normal: Start building plugin scripts
+2019-02-14T08:32:05.017Z - normal: Finish building raw assets
+2019-02-14T08:32:05.021Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:32:06.158Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:34:23.099Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:34:23.117Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:34:23.117Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:34:23.120Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:34:24.937Z - normal: Compiled project javascript file successfully
+2019-02-14T08:34:24.937Z - normal: Start building assets
+2019-02-14T08:34:24.938Z - normal: Start spawn build-worker
+2019-02-14T08:34:25.606Z - normal: Finish spawn build-worker
+2019-02-14T08:34:25.606Z - normal: Start init build-worker
+2019-02-14T08:34:27.720Z - normal: 1.9.3
+2019-02-14T08:34:27.808Z - normal: Finish init build-worker
+2019-02-14T08:34:27.808Z - normal: Start build-assets in worker
+2019-02-14T08:34:27.983Z - normal: Finish build-assets in worker
+2019-02-14T08:34:27.987Z - normal: Finish building assets
+2019-02-14T08:34:28.001Z - normal: Start building raw assets
+2019-02-14T08:34:28.002Z - normal: Start building plugin scripts
+2019-02-14T08:34:28.049Z - normal: Finish building raw assets
+2019-02-14T08:34:28.052Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:34:29.185Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:34:29.611Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": true,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:34:29.613Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:34:29.613Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:34:29.614Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:34:31.286Z - normal: Compiled project javascript file successfully
+2019-02-14T08:34:31.287Z - normal: Start building assets
+2019-02-14T08:34:31.287Z - normal: Start spawn build-worker
+2019-02-14T08:34:31.990Z - normal: Finish spawn build-worker
+2019-02-14T08:34:31.990Z - normal: Start init build-worker
+2019-02-14T08:34:34.080Z - normal: 1.9.3
+2019-02-14T08:34:34.160Z - normal: Finish init build-worker
+2019-02-14T08:34:34.160Z - normal: Start build-assets in worker
+2019-02-14T08:34:34.347Z - normal: Finish build-assets in worker
+2019-02-14T08:34:34.349Z - normal: Finish building assets
+2019-02-14T08:34:34.352Z - normal: Start building raw assets
+2019-02-14T08:34:34.353Z - normal: Start building plugin scripts
+2019-02-14T08:34:34.413Z - normal: Finish building raw assets
+2019-02-14T08:34:34.415Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:34:35.567Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:38:44.512Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:38:44.514Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:38:46.537Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": true,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:38:46.547Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:38:46.547Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:38:46.548Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:38:48.273Z - normal: Compiled project javascript file successfully
+2019-02-14T08:38:48.273Z - normal: Start building assets
+2019-02-14T08:38:48.274Z - normal: Start spawn build-worker
+2019-02-14T08:38:48.932Z - normal: Finish spawn build-worker
+2019-02-14T08:38:48.932Z - normal: Start init build-worker
+2019-02-14T08:38:51.088Z - normal: 1.9.3
+2019-02-14T08:38:51.174Z - normal: Finish init build-worker
+2019-02-14T08:38:51.175Z - normal: Start build-assets in worker
+2019-02-14T08:38:51.394Z - normal: Finish build-assets in worker
+2019-02-14T08:38:51.397Z - normal: Finish building assets
+2019-02-14T08:38:51.402Z - normal: Start building raw assets
+2019-02-14T08:38:51.402Z - normal: Start building plugin scripts
+2019-02-14T08:38:51.448Z - normal: Finish building raw assets
+2019-02-14T08:38:51.451Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:38:52.769Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:40:35.531Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": true,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:40:35.545Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:40:35.545Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:40:35.546Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:40:35.822Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:40:35.823Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:40:37.319Z - normal: Compiled project javascript file successfully
+2019-02-14T08:40:37.319Z - normal: Start building assets
+2019-02-14T08:40:37.319Z - normal: Start spawn build-worker
+2019-02-14T08:40:37.984Z - normal: Finish spawn build-worker
+2019-02-14T08:40:37.984Z - normal: Start init build-worker
+2019-02-14T08:40:40.046Z - normal: 1.9.3
+2019-02-14T08:40:40.123Z - normal: Finish init build-worker
+2019-02-14T08:40:40.123Z - normal: Start build-assets in worker
+2019-02-14T08:40:40.395Z - normal: Finish build-assets in worker
+2019-02-14T08:40:40.400Z - normal: Finish building assets
+2019-02-14T08:40:40.404Z - normal: Start building raw assets
+2019-02-14T08:40:40.405Z - normal: Start building plugin scripts
+2019-02-14T08:40:40.451Z - normal: Finish building raw assets
+2019-02-14T08:40:40.455Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:40:41.724Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:40:52.421Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": true,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:40:52.423Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:40:52.423Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:40:52.424Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:40:52.595Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:40:52.596Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:40:54.123Z - normal: Compiled project javascript file successfully
+2019-02-14T08:40:54.123Z - normal: Start building assets
+2019-02-14T08:40:54.123Z - normal: Start spawn build-worker
+2019-02-14T08:40:54.777Z - normal: Finish spawn build-worker
+2019-02-14T08:40:54.777Z - normal: Start init build-worker
+2019-02-14T08:40:56.757Z - normal: 1.9.3
+2019-02-14T08:40:56.842Z - normal: Finish init build-worker
+2019-02-14T08:40:56.842Z - normal: Start build-assets in worker
+2019-02-14T08:40:57.026Z - normal: Finish build-assets in worker
+2019-02-14T08:40:57.029Z - normal: Finish building assets
+2019-02-14T08:40:57.032Z - normal: Start building raw assets
+2019-02-14T08:40:57.032Z - normal: Start building plugin scripts
+2019-02-14T08:40:57.078Z - normal: Finish building raw assets
+2019-02-14T08:40:57.079Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:40:58.267Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:41:54.070Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:41:54.071Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:42:02.092Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": true,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:42:02.097Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:42:02.097Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:42:02.098Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:42:03.806Z - normal: Compiled project javascript file successfully
+2019-02-14T08:42:03.806Z - normal: Start building assets
+2019-02-14T08:42:03.807Z - normal: Start spawn build-worker
+2019-02-14T08:42:04.529Z - normal: Finish spawn build-worker
+2019-02-14T08:42:04.534Z - normal: Start init build-worker
+2019-02-14T08:42:06.653Z - normal: 1.9.3
+2019-02-14T08:42:06.732Z - normal: Finish init build-worker
+2019-02-14T08:42:06.732Z - normal: Start build-assets in worker
+2019-02-14T08:42:06.914Z - normal: Finish build-assets in worker
+2019-02-14T08:42:06.917Z - normal: Finish building assets
+2019-02-14T08:42:06.920Z - normal: Start building raw assets
+2019-02-14T08:42:06.920Z - normal: Start building plugin scripts
+2019-02-14T08:42:06.961Z - normal: Finish building raw assets
+2019-02-14T08:42:06.963Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:42:08.241Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:43:02.010Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:43:02.013Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:43:44.513Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:43:44.526Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:43:44.527Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:43:44.528Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:43:46.325Z - normal: Compiled project javascript file successfully
+2019-02-14T08:43:46.325Z - normal: Start building assets
+2019-02-14T08:43:46.325Z - normal: Start spawn build-worker
+2019-02-14T08:43:47.027Z - normal: Finish spawn build-worker
+2019-02-14T08:43:47.028Z - normal: Start init build-worker
+2019-02-14T08:43:49.142Z - normal: 1.9.3
+2019-02-14T08:43:49.233Z - normal: Finish init build-worker
+2019-02-14T08:43:49.233Z - normal: Start build-assets in worker
+2019-02-14T08:43:49.430Z - normal: Finish build-assets in worker
+2019-02-14T08:43:49.433Z - normal: Finish building assets
+2019-02-14T08:43:49.441Z - normal: Start building raw assets
+2019-02-14T08:43:49.441Z - normal: Start building plugin scripts
+2019-02-14T08:43:49.485Z - normal: Finish building raw assets
+2019-02-14T08:43:49.494Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:43:50.685Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:44:05.389Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:44:05.398Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:44:05.398Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:44:05.399Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:44:05.632Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:44:05.633Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:44:07.329Z - normal: Compiled project javascript file successfully
+2019-02-14T08:44:07.329Z - normal: Start building assets
+2019-02-14T08:44:07.329Z - normal: Start spawn build-worker
+2019-02-14T08:44:08.078Z - normal: Finish spawn build-worker
+2019-02-14T08:44:08.078Z - normal: Start init build-worker
+2019-02-14T08:44:10.312Z - normal: 1.9.3
+2019-02-14T08:44:10.419Z - normal: Finish init build-worker
+2019-02-14T08:44:10.419Z - normal: Start build-assets in worker
+2019-02-14T08:44:10.661Z - normal: Finish build-assets in worker
+2019-02-14T08:44:10.665Z - normal: Finish building assets
+2019-02-14T08:44:10.671Z - normal: Start building raw assets
+2019-02-14T08:44:10.672Z - normal: Start building plugin scripts
+2019-02-14T08:44:10.726Z - normal: Finish building raw assets
+2019-02-14T08:44:10.729Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:44:12.166Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:45:55.320Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:45:55.333Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:45:55.333Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:45:55.337Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:45:55.562Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:45:55.562Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:45:57.162Z - normal: Compiled project javascript file successfully
+2019-02-14T08:45:57.162Z - normal: Start building assets
+2019-02-14T08:45:57.163Z - normal: Start spawn build-worker
+2019-02-14T08:45:57.946Z - normal: Finish spawn build-worker
+2019-02-14T08:45:57.947Z - normal: Start init build-worker
+2019-02-14T08:46:00.069Z - normal: 1.9.3
+2019-02-14T08:46:00.141Z - normal: Finish init build-worker
+2019-02-14T08:46:00.141Z - normal: Start build-assets in worker
+2019-02-14T08:46:00.322Z - normal: Finish build-assets in worker
+2019-02-14T08:46:00.325Z - normal: Finish building assets
+2019-02-14T08:46:00.329Z - normal: Start building raw assets
+2019-02-14T08:46:00.330Z - normal: Start building plugin scripts
+2019-02-14T08:46:00.373Z - normal: Finish building raw assets
+2019-02-14T08:46:00.376Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:46:01.615Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:47:58.787Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:47:58.791Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:48:02.956Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:48:02.966Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:48:02.967Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:48:02.968Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:48:04.816Z - normal: Compiled project javascript file successfully
+2019-02-14T08:48:04.816Z - normal: Start building assets
+2019-02-14T08:48:04.816Z - normal: Start spawn build-worker
+2019-02-14T08:48:05.515Z - normal: Finish spawn build-worker
+2019-02-14T08:48:05.516Z - normal: Start init build-worker
+2019-02-14T08:48:07.703Z - normal: 1.9.3
+2019-02-14T08:48:07.793Z - normal: Finish init build-worker
+2019-02-14T08:48:07.794Z - normal: Start build-assets in worker
+2019-02-14T08:48:08.036Z - normal: Finish build-assets in worker
+2019-02-14T08:48:08.039Z - normal: Finish building assets
+2019-02-14T08:48:08.044Z - normal: Start building raw assets
+2019-02-14T08:48:08.044Z - normal: Start building plugin scripts
+2019-02-14T08:48:08.107Z - normal: Finish building raw assets
+2019-02-14T08:48:08.111Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:48:09.415Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:49:15.686Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:49:15.687Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:49:15.954Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:49:15.964Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:49:15.964Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:49:15.965Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:49:17.779Z - normal: Compiled project javascript file successfully
+2019-02-14T08:49:17.779Z - normal: Start building assets
+2019-02-14T08:49:17.779Z - normal: Start spawn build-worker
+2019-02-14T08:49:18.453Z - normal: Finish spawn build-worker
+2019-02-14T08:49:18.453Z - normal: Start init build-worker
+2019-02-14T08:49:20.522Z - normal: 1.9.3
+2019-02-14T08:49:20.604Z - normal: Finish init build-worker
+2019-02-14T08:49:20.605Z - normal: Start build-assets in worker
+2019-02-14T08:49:20.789Z - normal: Finish build-assets in worker
+2019-02-14T08:49:20.792Z - normal: Finish building assets
+2019-02-14T08:49:20.797Z - normal: Start building raw assets
+2019-02-14T08:49:20.797Z - normal: Start building plugin scripts
+2019-02-14T08:49:20.840Z - normal: Finish building raw assets
+2019-02-14T08:49:20.843Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:49:22.011Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:54:22.293Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:54:22.295Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:58:15.936Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:58:15.937Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:58:21.320Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:58:21.331Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:58:21.332Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:58:21.333Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:58:23.163Z - normal: Compiled project javascript file successfully
+2019-02-14T08:58:23.163Z - normal: Start building assets
+2019-02-14T08:58:23.163Z - normal: Start spawn build-worker
+2019-02-14T08:58:23.913Z - normal: Finish spawn build-worker
+2019-02-14T08:58:23.914Z - normal: Start init build-worker
+2019-02-14T08:58:26.058Z - normal: 1.9.3
+2019-02-14T08:58:26.134Z - normal: Finish init build-worker
+2019-02-14T08:58:26.134Z - normal: Start build-assets in worker
+2019-02-14T08:58:26.383Z - normal: Finish build-assets in worker
+2019-02-14T08:58:26.386Z - normal: Finish building assets
+2019-02-14T08:58:26.393Z - normal: Start building raw assets
+2019-02-14T08:58:26.393Z - normal: Start building plugin scripts
+2019-02-14T08:58:26.446Z - normal: Finish building raw assets
+2019-02-14T08:58:26.458Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:58:27.616Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T08:59:50.575Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:59:50.575Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T08:59:51.413Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T08:59:51.422Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T08:59:51.422Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T08:59:51.423Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T08:59:53.300Z - normal: Compiled project javascript file successfully
+2019-02-14T08:59:53.301Z - normal: Start building assets
+2019-02-14T08:59:53.301Z - normal: Start spawn build-worker
+2019-02-14T08:59:54.108Z - normal: Finish spawn build-worker
+2019-02-14T08:59:54.108Z - normal: Start init build-worker
+2019-02-14T08:59:56.161Z - normal: 1.9.3
+2019-02-14T08:59:56.241Z - normal: Finish init build-worker
+2019-02-14T08:59:56.241Z - normal: Start build-assets in worker
+2019-02-14T08:59:56.427Z - normal: Finish build-assets in worker
+2019-02-14T08:59:56.430Z - normal: Finish building assets
+2019-02-14T08:59:56.434Z - normal: Start building raw assets
+2019-02-14T08:59:56.435Z - normal: Start building plugin scripts
+2019-02-14T08:59:56.482Z - normal: Finish building raw assets
+2019-02-14T08:59:56.495Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T08:59:57.679Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T09:01:05.970Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T09:01:05.985Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T09:01:05.985Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T09:01:05.987Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T09:01:06.377Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:01:06.378Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:01:07.967Z - normal: Compiled project javascript file successfully
+2019-02-14T09:01:07.967Z - normal: Start building assets
+2019-02-14T09:01:07.967Z - normal: Start spawn build-worker
+2019-02-14T09:01:08.648Z - normal: Finish spawn build-worker
+2019-02-14T09:01:08.648Z - normal: Start init build-worker
+2019-02-14T09:01:10.681Z - normal: 1.9.3
+2019-02-14T09:01:10.778Z - normal: Finish init build-worker
+2019-02-14T09:01:10.778Z - normal: Start build-assets in worker
+2019-02-14T09:01:10.969Z - normal: Finish build-assets in worker
+2019-02-14T09:01:10.973Z - normal: Finish building assets
+2019-02-14T09:01:10.979Z - normal: Start building raw assets
+2019-02-14T09:01:10.980Z - normal: Start building plugin scripts
+2019-02-14T09:01:11.060Z - normal: Finish building raw assets
+2019-02-14T09:01:11.070Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T09:01:12.285Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T09:04:37.404Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:04:37.406Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:04:49.232Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T09:04:49.234Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T09:04:49.234Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T09:04:49.235Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T09:04:50.978Z - normal: Compiled project javascript file successfully
+2019-02-14T09:04:50.979Z - normal: Start building assets
+2019-02-14T09:04:50.979Z - normal: Start spawn build-worker
+2019-02-14T09:04:51.679Z - normal: Finish spawn build-worker
+2019-02-14T09:04:51.679Z - normal: Start init build-worker
+2019-02-14T09:04:53.675Z - normal: 1.9.3
+2019-02-14T09:04:53.747Z - normal: Finish init build-worker
+2019-02-14T09:04:53.747Z - normal: Start build-assets in worker
+2019-02-14T09:04:53.932Z - normal: Finish build-assets in worker
+2019-02-14T09:04:53.934Z - normal: Finish building assets
+2019-02-14T09:04:53.940Z - normal: Start building raw assets
+2019-02-14T09:04:53.940Z - normal: Start building plugin scripts
+2019-02-14T09:04:53.983Z - normal: Finish building raw assets
+2019-02-14T09:04:53.986Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T09:04:55.215Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T09:11:03.101Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:11:03.103Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:11:25.957Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:64341
+2019-02-14T09:13:43.401Z - error: Can't add component 'cc.Sprite' because New Button already contains the same component.
+    at Object.errorID (/Applications/CocosCreator_1.9.app/Contents/Resources/engine/CCDebugger.js:343:18)
+    at cc_Node.cc.Class._checkMultipleComp (/Applications/CocosCreator_1.9.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:823:20)
+    at cc_Node.cc.Class._addComponentAt (/Applications/CocosCreator_1.9.app/Contents/Resources/engine/cocos2d/core/utils/base-node.js:942:23)
+    at RemoveComponentCommand.undo (/Applications/CocosCreator_1.9.app/Contents/Resources/app.asar/editor/page/scene-utils/scene-undo.js:1:4960)
+    at CommandGroup.undo (/Applications/CocosCreator_1.9.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:796)
+    at UndoList.undo (/Applications/CocosCreator_1.9.app/Contents/Resources/app.asar/editor-framework/lib/share/undo.js:1:1518)
+    at Object.undo (/Applications/CocosCreator_1.9.app/Contents/Resources/app.asar/editor/page/scene-utils/scene-undo.js:1:10068)
+    at HTMLElement.scene:undo (file:///Applications/CocosCreator_1.9.app/Contents/Resources/app.asar/editor/builtin/scene/panel/scene.js:1:11256)
+    at Object.Panel._dispatch (/Applications/CocosCreator_1.9.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:2283)
+2019-02-14T09:15:15.898Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:15:15.900Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:15:24.662Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T09:15:24.664Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T09:15:24.665Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T09:15:24.665Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T09:15:26.411Z - normal: Compiled project javascript file successfully
+2019-02-14T09:15:26.411Z - normal: Start building assets
+2019-02-14T09:15:26.411Z - normal: Start spawn build-worker
+2019-02-14T09:15:27.079Z - normal: Finish spawn build-worker
+2019-02-14T09:15:27.080Z - normal: Start init build-worker
+2019-02-14T09:15:29.051Z - normal: 1.9.3
+2019-02-14T09:15:29.127Z - normal: Finish init build-worker
+2019-02-14T09:15:29.127Z - normal: Start build-assets in worker
+2019-02-14T09:15:29.317Z - normal: Finish build-assets in worker
+2019-02-14T09:15:29.320Z - normal: Finish building assets
+2019-02-14T09:15:29.324Z - normal: Start building raw assets
+2019-02-14T09:15:29.325Z - normal: Start building plugin scripts
+2019-02-14T09:15:29.372Z - normal: Finish building raw assets
+2019-02-14T09:15:29.381Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T09:15:30.575Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T09:19:34.024Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:19:34.025Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:19:42.139Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T09:19:42.141Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T09:19:42.141Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T09:19:42.142Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T09:19:43.893Z - normal: Compiled project javascript file successfully
+2019-02-14T09:19:43.893Z - normal: Start building assets
+2019-02-14T09:19:43.893Z - normal: Start spawn build-worker
+2019-02-14T09:19:44.583Z - normal: Finish spawn build-worker
+2019-02-14T09:19:44.583Z - normal: Start init build-worker
+2019-02-14T09:19:46.688Z - normal: 1.9.3
+2019-02-14T09:19:46.769Z - normal: Finish init build-worker
+2019-02-14T09:19:46.769Z - normal: Start build-assets in worker
+2019-02-14T09:19:46.950Z - normal: Finish build-assets in worker
+2019-02-14T09:19:46.958Z - normal: Finish building assets
+2019-02-14T09:19:46.963Z - normal: Start building raw assets
+2019-02-14T09:19:46.964Z - normal: Start building plugin scripts
+2019-02-14T09:19:47.005Z - normal: Finish building raw assets
+2019-02-14T09:19:47.015Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T09:19:48.298Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T09:24:05.888Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:24:05.889Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:24:08.800Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T09:24:08.810Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T09:24:08.810Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T09:24:08.812Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T09:24:10.873Z - normal: Compiled project javascript file successfully
+2019-02-14T09:24:10.873Z - normal: Start building assets
+2019-02-14T09:24:10.874Z - normal: Start spawn build-worker
+2019-02-14T09:24:11.759Z - normal: Finish spawn build-worker
+2019-02-14T09:24:11.761Z - normal: Start init build-worker
+2019-02-14T09:24:13.820Z - normal: 1.9.3
+2019-02-14T09:24:13.910Z - normal: Finish init build-worker
+2019-02-14T09:24:13.910Z - normal: Start build-assets in worker
+2019-02-14T09:24:14.080Z - normal: Finish build-assets in worker
+2019-02-14T09:24:14.083Z - normal: Finish building assets
+2019-02-14T09:24:14.087Z - normal: Start building raw assets
+2019-02-14T09:24:14.088Z - normal: Start building plugin scripts
+2019-02-14T09:24:14.131Z - normal: Finish building raw assets
+2019-02-14T09:24:14.135Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T09:24:15.340Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T09:25:52.112Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T09:25:52.122Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T09:25:52.122Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T09:25:52.123Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T09:25:52.318Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:25:52.318Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:25:53.908Z - normal: Compiled project javascript file successfully
+2019-02-14T09:25:53.908Z - normal: Start building assets
+2019-02-14T09:25:53.908Z - normal: Start spawn build-worker
+2019-02-14T09:25:54.591Z - normal: Finish spawn build-worker
+2019-02-14T09:25:54.592Z - normal: Start init build-worker
+2019-02-14T09:25:56.701Z - normal: 1.9.3
+2019-02-14T09:25:56.779Z - normal: Finish init build-worker
+2019-02-14T09:25:56.779Z - normal: Start build-assets in worker
+2019-02-14T09:25:56.962Z - normal: Finish build-assets in worker
+2019-02-14T09:25:56.964Z - normal: Finish building assets
+2019-02-14T09:25:56.967Z - normal: Start building raw assets
+2019-02-14T09:25:56.968Z - normal: Start building plugin scripts
+2019-02-14T09:25:57.006Z - normal: Finish building raw assets
+2019-02-14T09:25:57.008Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T09:25:58.107Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-14T09:27:51.834Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:27:51.835Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-14T09:27:52.162Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxfd0c33aee24dcb95",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-14T09:27:52.173Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-14T09:27:52.173Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-14T09:27:52.175Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-14T09:27:53.987Z - normal: Compiled project javascript file successfully
+2019-02-14T09:27:53.987Z - normal: Start building assets
+2019-02-14T09:27:53.987Z - normal: Start spawn build-worker
+2019-02-14T09:27:54.617Z - normal: Finish spawn build-worker
+2019-02-14T09:27:54.617Z - normal: Start init build-worker
+2019-02-14T09:27:56.543Z - normal: 1.9.3
+2019-02-14T09:27:56.616Z - normal: Finish init build-worker
+2019-02-14T09:27:56.616Z - normal: Start build-assets in worker
+2019-02-14T09:27:56.789Z - normal: Finish build-assets in worker
+2019-02-14T09:27:56.792Z - normal: Finish building assets
+2019-02-14T09:27:56.797Z - normal: Start building raw assets
+2019-02-14T09:27:56.797Z - normal: Start building plugin scripts
+2019-02-14T09:27:56.836Z - normal: Finish building raw assets
+2019-02-14T09:27:56.839Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-14T09:27:57.960Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
