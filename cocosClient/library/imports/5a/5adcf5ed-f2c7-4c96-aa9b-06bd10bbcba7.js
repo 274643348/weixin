@@ -34,7 +34,7 @@ function getSetting(lable) {
     wx.getSetting({
         success: function (res) {
             console.log(res.authSetting);
-            if (res.authSetting['scope.userInfo']) {
+            if (res.authSetting["scope.userInfo"]) {
                 console.log("userInfo 已经授权");
                 //获取用户信息
                 getUserInfo(lable);
@@ -42,7 +42,7 @@ function getSetting(lable) {
             else {
                 console.log("userInfo 未授权");
                 //请求用户信息
-                if (res.authSetting['scope.userInfo'] === false) {
+                if (res.authSetting["scope.userInfo"] === false) {
                     console.log("用户 userInfo 已经拒绝");
                     // 用户已拒绝授权，再调用相关 API 或者 wx.authorize 会失败，需要引导用户到设置页面打开授权开关
                     // wx.authorize({
@@ -67,7 +67,7 @@ function getSetting(lable) {
                     // console.log(res.authSetting)
                     // createUserInfoButton(lable);
                     wx.authorize({
-                        scope: 'scope.userInfo',
+                        scope: "scope.userInfo",
                         success: function () {
                             console.log("用户 成功 授权");
                             getUserInfo(lable);
@@ -102,7 +102,7 @@ function getUserInfo(lable) {
         },
         complete: function () {
             console.log("getUserInfo complete ");
-        },
+        }
     });
 }
 exports.getUserInfo = getUserInfo;
@@ -110,20 +110,20 @@ function createUserInfoButton(lable) {
     console.log("width", width);
     console.log("height", height);
     var button = wx.createUserInfoButton({
-        type: 'text',
-        text: '获取用户信息',
+        type: "text",
+        text: "获取用户信息",
         style: {
             left: width / 2 - 100,
             top: height / 2 - 20,
             width: 200,
             height: 40,
             lineHeight: 40,
-            backgroundColor: '#ff0000',
-            color: '#ffffff',
-            textAlign: 'center',
+            backgroundColor: "#ff0000",
+            color: "#ffffff",
+            textAlign: "center",
             fontSize: 16,
-            borderRadius: 4,
-        },
+            borderRadius: 4
+        }
     });
     button.onTap(function (res) {
         if (res.userInfo) {
@@ -140,18 +140,112 @@ function createUserInfoButton(lable) {
     });
 }
 exports.createUserInfoButton = createUserInfoButton;
-// export function authorize(lable: cc.Node) {
-//   wx.authorize({
-//     success(res) {
-//       console.log(res.authSetting)
-//       if (res.authSetting['scope.userInfo']) {
-//         console.log("userInfo 已经授权")
-//         getUserInfo(lable)
-//       }else{
-//         console.log("userInfo 未授权")
-//       }
-//     }
-//   })
-// }
+/////////////////////////////游戏圈相关
+function getGameClub(lable) {
+    var button = wx.createGameClubButton({
+        icon: "green",
+        style: {
+            left: 10,
+            top: 76,
+            width: 40,
+            height: 40
+        }
+    });
+}
+exports.getGameClub = getGameClub;
+////////////////////////////分享功能
+function showMenu() {
+    wx.onShareAppMessage(function () {
+        // 用户点击了“转发”按钮
+        return {
+            title: "玩家手动"
+        };
+    });
+    wx.showShareMenu();
+}
+exports.showMenu = showMenu;
+function hideMenu() {
+    wx.hideShareMenu();
+}
+exports.hideMenu = hideMenu;
+function shareAppMessage() {
+    wx.shareAppMessage({
+        title: "直接分享"
+    });
+}
+exports.shareAppMessage = shareAppMessage;
+//////////////////////////////获取好友链,群玩家数据链
+//调用会失败(必须放在开放数据域中)
+function getGroupCloudStorage() {
+    wx.getGroupCloudStorage({
+        keyList: ["score"],
+        success: function (res) {
+            console.log("getGroupCloudStorage      success ------", res.data);
+        },
+        fail: function (res) {
+            console.log("getGroupCloudStorage      fail ------", res.data);
+        }
+    });
+}
+exports.getGroupCloudStorage = getGroupCloudStorage;
+//调用会失败(必须放在开放数据域中)
+function getFriendCloudStorage() {
+    wx.getFriendCloudStorage({
+        keyList: ["score"],
+        success: function (res) {
+            console.log("getFriendCloudStorage      success ------", res.data);
+        },
+        fail: function (res) {
+            console.log("getFriendCloudStorage      fail ------", res.data);
+        }
+    });
+}
+exports.getFriendCloudStorage = getFriendCloudStorage;
+//调用会失败(必须放在开放数据域中)
+function getUserCloudStorage(score, label) {
+    wx.getUserCloudStorage({
+        keyList: [score],
+        success: function (res) {
+            console.log("getUserCloudStorage success ---  ", res);
+            // label.string = res[score];
+        }
+    });
+}
+exports.getUserCloudStorage = getUserCloudStorage;
+//主域和开放数据域的通信---开放数据域不能向主域发送消息。
+function my_postMessage(type, data) {
+    var openDataContext = wx.getOpenDataContext();
+    /**
+     * type
+     * 1:getUserCloudStorage
+     * 2:getFriendCloudStorage
+     * 3:getGroupCloudStorage
+     */
+    openDataContext.postMessage({
+        text: type,
+        data: data
+    });
+}
+exports.my_postMessage = my_postMessage;
+//////////////////////////////托管用户数据
+function setUserCloudStorage(score) {
+    wx.setUserCloudStorage({
+        KVDataList: [{ key: "score", value: score }],
+        success: function (res) {
+            console.log("setUserCloudStorage success ---  ", res);
+        },
+        fail: function (res) {
+            console.log("setUserCloudStorage fail ---  ", res);
+        }
+    });
+}
+exports.setUserCloudStorage = setUserCloudStorage;
+///
+function getRandomInt(min, max) {
+    var minCeil = Math.ceil(min);
+    var maxFloor = Math.floor(max);
+    return Math.floor(Math.random() * (maxFloor - minCeil)) + minCeil;
+}
+exports.getRandomInt = getRandomInt;
 
 cc._RF.pop();

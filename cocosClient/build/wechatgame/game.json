@@ -1,6 +1,6 @@
 {
     "deviceOrientation": "portrait",
-    "openDataContext": "",
+    "openDataContext": "wx-open-data-project",
     "networkTimeout": {
         "request": 5000,
         "connectSocket": 5000,
