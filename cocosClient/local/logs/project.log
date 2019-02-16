@@ -1,59 +1,59 @@
-2019-02-15T14:42:55.454Z - normal: Load ~/.CocosCreator/settings.json
-2019-02-15T14:42:55.457Z - normal: checking language setting...
-2019-02-15T14:42:55.458Z - normal: Language: zh
-2019-02-15T14:42:56.082Z - success: protocol editor-framework registered
-2019-02-15T14:42:56.082Z - success: protocol app registered
-2019-02-15T14:42:56.082Z - success: protocol theme registered
-2019-02-15T14:42:56.082Z - success: protocol packages registered
-2019-02-15T14:42:56.083Z - success: protocol unpack registerred
-2019-02-15T14:42:56.083Z - success: protocol disable-commonjs registerred
-2019-02-15T14:42:56.197Z - normal: connected!
-2019-02-15T14:42:56.200Z - normal: Check project /Users/liujingyan/weixin/cocosClient
-2019-02-15T14:42:56.203Z - normal: Initializing Cocos2d
-2019-02-15T14:42:56.382Z - normal: Initializing Asset Database
-2019-02-15T14:42:56.411Z - success: protocol uuid registerred
-2019-02-15T14:42:56.412Z - success: protocol db registerred
-2019-02-15T14:42:56.412Z - success: protocol thumbnail registerred
-2019-02-15T14:42:56.412Z - normal: Loading editor/builtin packages
-2019-02-15T14:42:56.430Z - success: anysdk loaded
-2019-02-15T14:42:56.548Z - success: assets loaded
-2019-02-15T14:42:56.552Z - success: builder loaded
-2019-02-15T14:42:56.554Z - success: cocos-analytics loaded
-2019-02-15T14:42:56.558Z - success: console loaded
-2019-02-15T14:42:56.591Z - success: fb-instant-games loaded
-2019-02-15T14:42:56.595Z - success: hierarchy loaded
-2019-02-15T14:42:56.599Z - success: inspector loaded
-2019-02-15T14:42:56.601Z - success: keystore loaded
-2019-02-15T14:42:56.604Z - success: node-library loaded
-2019-02-15T14:42:56.607Z - success: package-asset loaded
-2019-02-15T14:42:56.609Z - success: preferences loaded
-2019-02-15T14:42:56.612Z - success: project-exporter loaded
-2019-02-15T14:42:56.627Z - success: project-importer loaded
-2019-02-15T14:42:56.631Z - success: project-settings loaded
-2019-02-15T14:42:56.635Z - success: ui-kit loaded
-2019-02-15T14:42:56.639Z - success: ui-grid loaded
-2019-02-15T14:42:56.643Z - success: scene loaded
-2019-02-15T14:42:56.644Z - success: sprite-editor loaded
-2019-02-15T14:42:56.648Z - success: store loaded
-2019-02-15T14:42:56.653Z - success: timeline loaded
-2019-02-15T14:42:56.654Z - normal: Loading builtin packages
-2019-02-15T14:42:56.658Z - success: asset-db-debugger loaded
-2019-02-15T14:42:56.659Z - success: color-picker loaded
-2019-02-15T14:42:56.662Z - success: package-manager loaded
-2019-02-15T14:42:56.663Z - success: qqplay-adapter loaded
-2019-02-15T14:42:56.668Z - success: sdkbox loaded
-2019-02-15T14:42:56.673Z - success: tester loaded
-2019-02-15T14:42:56.676Z - success: ui-kit-preview-extra loaded
-2019-02-15T14:42:56.678Z - success: ui-kit-preview loaded
-2019-02-15T14:42:56.681Z - success: ui-tree loaded
-2019-02-15T14:42:56.683Z - success: weapp-adapter loaded
-2019-02-15T14:42:57.680Z - normal: Initializing project /Users/liujingyan/weixin/cocosClient
-2019-02-15T14:42:57.684Z - normal: Loading packages
-2019-02-15T14:42:57.689Z - normal: Watching packages
-2019-02-15T14:42:57.796Z - normal: Run Application
-2019-02-15T14:42:58.469Z - success: preview server running at http://localhost:7457
-2019-02-15T14:43:02.733Z - normal: 1.9.3
-2019-02-15T14:43:02.996Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+2019-02-16T01:09:59.622Z - normal: Load ~/.CocosCreator/settings.json
+2019-02-16T01:09:59.626Z - normal: checking language setting...
+2019-02-16T01:09:59.626Z - normal: Language: zh
+2019-02-16T01:10:00.282Z - success: protocol editor-framework registered
+2019-02-16T01:10:00.282Z - success: protocol app registered
+2019-02-16T01:10:00.282Z - success: protocol theme registered
+2019-02-16T01:10:00.282Z - success: protocol packages registered
+2019-02-16T01:10:00.283Z - success: protocol unpack registerred
+2019-02-16T01:10:00.283Z - success: protocol disable-commonjs registerred
+2019-02-16T01:10:00.404Z - normal: connected!
+2019-02-16T01:10:00.406Z - normal: Check project /Users/liujingyan/weixin/cocosClient
+2019-02-16T01:10:00.409Z - normal: Initializing Cocos2d
+2019-02-16T01:10:00.595Z - normal: Initializing Asset Database
+2019-02-16T01:10:00.627Z - success: protocol uuid registerred
+2019-02-16T01:10:00.627Z - success: protocol db registerred
+2019-02-16T01:10:00.627Z - success: protocol thumbnail registerred
+2019-02-16T01:10:00.627Z - normal: Loading editor/builtin packages
+2019-02-16T01:10:00.646Z - success: anysdk loaded
+2019-02-16T01:10:00.765Z - success: assets loaded
+2019-02-16T01:10:00.769Z - success: builder loaded
+2019-02-16T01:10:00.771Z - success: cocos-analytics loaded
+2019-02-16T01:10:00.775Z - success: console loaded
+2019-02-16T01:10:00.810Z - success: fb-instant-games loaded
+2019-02-16T01:10:00.815Z - success: hierarchy loaded
+2019-02-16T01:10:00.819Z - success: inspector loaded
+2019-02-16T01:10:00.820Z - success: keystore loaded
+2019-02-16T01:10:00.824Z - success: node-library loaded
+2019-02-16T01:10:00.826Z - success: package-asset loaded
+2019-02-16T01:10:00.828Z - success: preferences loaded
+2019-02-16T01:10:00.831Z - success: project-exporter loaded
+2019-02-16T01:10:00.847Z - success: project-importer loaded
+2019-02-16T01:10:00.850Z - success: project-settings loaded
+2019-02-16T01:10:00.853Z - success: ui-kit loaded
+2019-02-16T01:10:00.858Z - success: ui-grid loaded
+2019-02-16T01:10:00.862Z - success: scene loaded
+2019-02-16T01:10:00.864Z - success: sprite-editor loaded
+2019-02-16T01:10:00.868Z - success: store loaded
+2019-02-16T01:10:00.873Z - success: timeline loaded
+2019-02-16T01:10:00.874Z - normal: Loading builtin packages
+2019-02-16T01:10:00.878Z - success: asset-db-debugger loaded
+2019-02-16T01:10:00.879Z - success: color-picker loaded
+2019-02-16T01:10:00.883Z - success: package-manager loaded
+2019-02-16T01:10:00.884Z - success: qqplay-adapter loaded
+2019-02-16T01:10:00.889Z - success: sdkbox loaded
+2019-02-16T01:10:00.893Z - success: tester loaded
+2019-02-16T01:10:00.896Z - success: ui-kit-preview-extra loaded
+2019-02-16T01:10:00.899Z - success: ui-kit-preview loaded
+2019-02-16T01:10:00.901Z - success: ui-tree loaded
+2019-02-16T01:10:00.903Z - success: weapp-adapter loaded
+2019-02-16T01:10:01.936Z - normal: Initializing project /Users/liujingyan/weixin/cocosClient
+2019-02-16T01:10:01.938Z - normal: Loading packages
+2019-02-16T01:10:01.943Z - normal: Watching packages
+2019-02-16T01:10:02.063Z - normal: Run Application
+2019-02-16T01:10:02.806Z - success: preview server running at http://localhost:7456
+2019-02-16T01:10:07.319Z - normal: 1.9.3
+2019-02-16T01:10:07.533Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
     // Before:
     @property(...)
     value;
@@ -61,7 +61,7 @@
     // After:
     @property(...)
     value = 0;
-2019-02-15T14:43:02.996Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+2019-02-16T01:10:07.534Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
     // Before:
     @property(...)
     value;
@@ -69,7 +69,7 @@
     // After:
     @property(...)
     value = 0;
-2019-02-15T14:43:02.996Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+2019-02-16T01:10:07.534Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
     // Before:
     @property(...)
     value;
@@ -77,92 +77,7 @@
     // After:
     @property(...)
     value = 0;
-2019-02-15T14:46:53.203Z - error: scene 没有保存，请先保存相关信息再进行构建。
-    at Editor.Ipc.sendToPanel (/Applications/CocosCreator_1.9.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:14928)
-    at EventEmitter.ipcRenderer.on.n (/Applications/CocosCreator_1.9.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:4587)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2019-02-15T14:47:04.759Z - normal: Start building with options : {
-  "androidStudio": true,
-  "apiLevel": "",
-  "appABIs": [],
-  "appKey": "",
-  "appSecret": "",
-  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
-  "debug": false,
-  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeEruda": false,
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "jailbreakPlatform": false,
-  "md5Cache": true,
-  "mergeStartScene": false,
-  "oauthLoginServer": "",
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.helloworld",
-  "platform": "wechatgame",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "privateKey": "",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait"
-  },
-  "renderMode": "0",
-  "scenes": [
-    "2d2f792f-a40c-49bb-a189-ed176a246e49"
-  ],
-  "sourceMaps": false,
-  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
-  "template": "link",
-  "title": "helloworld",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx71cb660e6998b9f2",
-    "isSubdomain": false,
-    "orientation": "portrait",
-    "subContext": "wx-open-data-project"
-  },
-  "xxteaKey": "4f254add-1d78-41",
-  "zipCompressJs": true,
-  "project": "/Users/liujingyan/weixin/cocosClient",
-  "projectName": "helloworld",
-  "debugBuildWorker": false
-}
-2019-02-15T14:47:04.762Z - normal: Building /Users/liujingyan/weixin/cocosClient
-2019-02-15T14:47:04.762Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
-2019-02-15T14:47:05.084Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
-2019-02-15T14:47:06.924Z - normal: Compiled project javascript file successfully
-2019-02-15T14:47:06.924Z - normal: Start building assets
-2019-02-15T14:47:06.924Z - normal: Start spawn build-worker
-2019-02-15T14:47:07.576Z - normal: Finish spawn build-worker
-2019-02-15T14:47:07.576Z - normal: Start init build-worker
-2019-02-15T14:47:09.579Z - normal: 1.9.3
-2019-02-15T14:47:09.660Z - normal: Finish init build-worker
-2019-02-15T14:47:09.660Z - normal: Start build-assets in worker
-2019-02-15T14:47:09.829Z - normal: Finish build-assets in worker
-2019-02-15T14:47:09.831Z - normal: Finish building assets
-2019-02-15T14:47:09.837Z - normal: Start building raw assets
-2019-02-15T14:47:09.838Z - normal: Start building plugin scripts
-2019-02-15T14:47:09.884Z - normal: Finish building raw assets
-2019-02-15T14:47:09.888Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
-2019-02-15T14:47:11.260Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
-2019-02-15T14:49:16.171Z - normal: Start building with options : {
+2019-02-16T01:10:30.496Z - normal: Start building with options : {
   "androidStudio": true,
   "apiLevel": "",
   "appABIs": [],
@@ -224,49 +139,28 @@
   "projectName": "helloworld",
   "debugBuildWorker": false
 }
-2019-02-15T14:49:16.185Z - normal: Building /Users/liujingyan/weixin/cocosClient
-2019-02-15T14:49:16.185Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
-2019-02-15T14:49:16.186Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
-2019-02-15T14:49:18.067Z - normal: Compiled project javascript file successfully
-2019-02-15T14:49:18.067Z - normal: Start building assets
-2019-02-15T14:49:18.068Z - normal: Start spawn build-worker
-2019-02-15T14:49:18.819Z - normal: Finish spawn build-worker
-2019-02-15T14:49:18.819Z - normal: Start init build-worker
-2019-02-15T14:49:20.887Z - normal: 1.9.3
-2019-02-15T14:49:20.980Z - normal: Finish init build-worker
-2019-02-15T14:49:20.980Z - normal: Start build-assets in worker
-2019-02-15T14:49:21.173Z - normal: Finish build-assets in worker
-2019-02-15T14:49:21.175Z - normal: Finish building assets
-2019-02-15T14:49:21.181Z - normal: Start building raw assets
-2019-02-15T14:49:21.182Z - normal: Start building plugin scripts
-2019-02-15T14:49:21.224Z - normal: Finish building raw assets
-2019-02-15T14:49:21.227Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
-2019-02-15T14:49:22.413Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
-2019-02-15T14:50:52.111Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
-    // Before:
-    @property(...)
-    value;
+2019-02-16T01:10:30.498Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-16T01:10:30.498Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-16T01:10:30.780Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-16T01:10:32.793Z - normal: Compiled project javascript file successfully
+2019-02-16T01:10:32.793Z - normal: Start building assets
+2019-02-16T01:10:32.794Z - normal: Start spawn build-worker
+2019-02-16T01:10:33.456Z - normal: Finish spawn build-worker
+2019-02-16T01:10:33.457Z - normal: Start init build-worker
+2019-02-16T01:10:35.412Z - normal: 1.9.3
+2019-02-16T01:10:35.497Z - normal: Finish init build-worker
+2019-02-16T01:10:35.497Z - normal: Start build-assets in worker
+2019-02-16T01:10:35.677Z - normal: Finish build-assets in worker
+2019-02-16T01:10:35.680Z - normal: Finish building assets
+2019-02-16T01:10:35.685Z - normal: Start building raw assets
+2019-02-16T01:10:35.686Z - normal: Start building plugin scripts
+2019-02-16T01:10:35.737Z - normal: Finish building raw assets
+2019-02-16T01:10:35.742Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-16T01:10:37.347Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-16T02:18:05.875Z - warn: The Node referenced by component "Helloworld" is invalid. Detailed information:
+Node path: "Canvas/root"
 
-    // After:
-    @property(...)
-    value = 0;
-2019-02-15T14:50:52.113Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
-    // Before:
-    @property(...)
-    value;
-
-    // After:
-    @property(...)
-    value = 0;
-2019-02-15T14:50:52.113Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
-    // Before:
-    @property(...)
-    value;
-
-    // After:
-    @property(...)
-    value = 0;
-2019-02-15T14:50:56.173Z - normal: Start building with options : {
+2019-02-16T02:18:13.883Z - normal: Start building with options : {
   "androidStudio": true,
   "apiLevel": "",
   "appABIs": [],
@@ -328,21 +222,22 @@
   "projectName": "helloworld",
   "debugBuildWorker": false
 }
-2019-02-15T14:50:56.182Z - normal: Building /Users/liujingyan/weixin/cocosClient
-2019-02-15T14:50:56.183Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
-2019-02-15T14:50:56.184Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
-2019-02-15T14:50:58.206Z - normal: Compiled project javascript file successfully
-2019-02-15T14:50:58.206Z - normal: Start building assets
-2019-02-15T14:50:58.207Z - normal: Start spawn build-worker
-2019-02-15T14:50:58.903Z - normal: Finish spawn build-worker
-2019-02-15T14:50:58.903Z - normal: Start init build-worker
-2019-02-15T14:51:00.951Z - normal: 1.9.3
-2019-02-15T14:51:01.036Z - normal: Finish init build-worker
-2019-02-15T14:51:01.037Z - normal: Start build-assets in worker
-2019-02-15T14:51:01.234Z - normal: Finish build-assets in worker
-2019-02-15T14:51:01.236Z - normal: Finish building assets
-2019-02-15T14:51:01.240Z - normal: Start building raw assets
-2019-02-15T14:51:01.241Z - normal: Start building plugin scripts
-2019-02-15T14:51:01.289Z - normal: Finish building raw assets
-2019-02-15T14:51:01.292Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
-2019-02-15T14:51:02.521Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-16T02:18:13.885Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-16T02:18:13.886Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-16T02:18:13.887Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-16T02:18:15.664Z - normal: Compiled project javascript file successfully
+2019-02-16T02:18:15.664Z - normal: Start building assets
+2019-02-16T02:18:15.664Z - normal: Start spawn build-worker
+2019-02-16T02:18:16.463Z - normal: Finish spawn build-worker
+2019-02-16T02:18:16.463Z - normal: Start init build-worker
+2019-02-16T02:18:18.464Z - normal: 1.9.3
+2019-02-16T02:18:18.546Z - normal: Finish init build-worker
+2019-02-16T02:18:18.546Z - normal: Start build-assets in worker
+2019-02-16T02:18:18.710Z - normal: Finish build-assets in worker
+2019-02-16T02:18:18.712Z - normal: Finish building assets
+2019-02-16T02:18:18.718Z - normal: Start building raw assets
+2019-02-16T02:18:18.719Z - normal: Start building plugin scripts
+2019-02-16T02:18:18.759Z - normal: Finish building raw assets
+2019-02-16T02:18:18.763Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-16T02:18:19.887Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-16T02:19:49.815Z - info: shutdown preview server

@@ -25,7 +25,6 @@ var Helloworld = /** @class */ (function (_super) {
         this.tex.initWithElement(sharedCanvas);
         this.tex.handleLoadedTexture();
         this.opendataRoot.getComponent(cc.Sprite).spriteFrame = new cc.SpriteFrame(this.tex);
-        console.log(this.opendataRoot.getComponent(cc.Sprite).spriteFrame);
     };
     Helloworld.prototype.update = function () {
         this.updateSubDomainCanvas();

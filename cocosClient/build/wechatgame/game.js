@@ -4,5 +4,5 @@ window.DOMParser = Parser.DOMParser;
 require('libs/wx-downloader.js');
 wxDownloader.REMOTE_SERVER_ROOT = "";
 wxDownloader.SUBCONTEXT_ROOT = "";
-require('src/settings.45685');
-require('main.36b9a');
+require('src/settings.47c39');
+require('main.14c6e');
