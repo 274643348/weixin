@@ -3,6 +3,8 @@ cc._RF.push(module, '5adcfXt8sdMlqqbBr0Qu8un', 'mySDK', __filename);
 // Script/mySDK.ts
 
 Object.defineProperty(exports, "__esModule", { value: true });
+var GameTools_1 = require("./GameTools");
+var GameConfig_1 = require("./GameConfig");
 //获取微信界面大小
 var width = 0;
 var height = 0;
@@ -141,40 +143,92 @@ function createUserInfoButton(lable) {
 }
 exports.createUserInfoButton = createUserInfoButton;
 /////////////////////////////游戏圈相关
-function getGameClub(lable) {
+function createGameClub() {
+    console.log("ljy------CreateClub");
+    var info = window.wx.getSystemInfoSync();
     var button = wx.createGameClubButton({
         icon: "green",
         style: {
-            left: 10,
-            top: 76,
+            left: info.windowWidth / 6,
+            top: info.windowHeight * 91 / 100,
             width: 40,
             height: 40
         }
     });
+    button.hide();
+    return button;
 }
-exports.getGameClub = getGameClub;
+exports.createGameClub = createGameClub;
 ////////////////////////////分享功能
 function showMenu() {
+    console.log("ljy------showShareMenu");
+    //更多转发信息 设置 withShareTicket 为 true
+    wx.showShareMenu({ withShareTicket: true });
+}
+exports.showMenu = showMenu;
+function onShareAppMessage() {
     wx.onShareAppMessage(function () {
         // 用户点击了“转发”按钮
         return {
-            title: "玩家手动"
+            title: "玩家手动",
         };
     });
-    wx.showShareMenu();
 }
-exports.showMenu = showMenu;
+exports.onShareAppMessage = onShareAppMessage;
 function hideMenu() {
     wx.hideShareMenu();
 }
 exports.hideMenu = hideMenu;
-function shareAppMessage() {
-    wx.shareAppMessage({
-        title: "直接分享"
-    });
+function shareAppMessage(pictureName) {
+    // wx.shareAppMessage({
+    //   title: "直接分享"
+    // });
+    var titleStr = '快来跟我一起挑战大鸟撞小鸟吧。';
+    if ("shareTicket" == pictureName) {
+        titleStr = "看看你在群里排第几？快来和我挑战大鸟撞小鸟吧。";
+    }
+    else if (pictureName != undefined && pictureName != null) {
+        // titleStr = "我得了" + pictureName + "分," + titleStr;
+    }
+    if (cc.sys.platform === cc.sys.WECHAT_GAME) {
+        wx.shareAppMessage({
+            title: titleStr,
+            query: "x=" + GameConfig_1.GameConfig.MAIN_MENU_NUM,
+            // imageUrl: canvas.toTempFilePathSync({
+            //     destWidth: 500,
+            //     destHeight: 400
+            // }),
+            success: function (res) {
+                if (res.shareTickets != undefined && res.shareTickets.length > 0) {
+                    if ("shareTicket" == pictureName) {
+                        wx.postMessage({
+                            messageType: 5,
+                            MAIN_MENU_NUM: GameConfig_1.GameConfig.MAIN_MENU_NUM,
+                            shareTicket: res.shareTickets[0]
+                        });
+                    }
+                }
+            }
+        });
+    }
+    else {
+        this.toastMessage(1);
+        cc.log("执行了截图" + titleStr);
+    }
 }
 exports.shareAppMessage = shareAppMessage;
 //////////////////////////////获取好友链,群玩家数据链
+function LaunchOptions() {
+    //如果小游戏启动时的参数存在则显示好友排行
+    var LaunchOption = wx.getLaunchOptionsSync();
+    if (LaunchOption.shareTicket != undefined) {
+        setTimeout(function () {
+            console.log("shareTicket", LaunchOption);
+            GameTools_1.gameTools.getRankData(LaunchOption.shareTicket);
+        }, 3000);
+    }
+}
+exports.LaunchOptions = LaunchOptions;
 //调用会失败(必须放在开放数据域中)
 function getGroupCloudStorage() {
     wx.getGroupCloudStorage({
@@ -214,23 +268,23 @@ function getUserCloudStorage(score, label) {
 exports.getUserCloudStorage = getUserCloudStorage;
 //主域和开放数据域的通信---开放数据域不能向主域发送消息。
 function my_postMessage(type, data) {
-    var openDataContext = wx.getOpenDataContext();
-    /**
-     * type
-     * 1:getUserCloudStorage
-     * 2:getFriendCloudStorage
-     * 3:getGroupCloudStorage
-     */
-    openDataContext.postMessage({
-        text: type,
-        data: data
-    });
+    // const openDataContext = wx.getOpenDataContext();
+    // /**
+    //  * type
+    //  * 1:getUserCloudStorage
+    //  * 2:getFriendCloudStorage
+    //  * 3:getGroupCloudStorage
+    //  */
+    // openDataContext.postMessage({
+    //   text: type,
+    //   data: data
+    // });
 }
 exports.my_postMessage = my_postMessage;
 //////////////////////////////托管用户数据
-function setUserCloudStorage(score) {
+function setUserCloudStorage(data) {
     wx.setUserCloudStorage({
-        KVDataList: [{ key: "score", value: score }],
+        KVDataList: [data],
         success: function (res) {
             console.log("setUserCloudStorage success ---  ", res);
         },

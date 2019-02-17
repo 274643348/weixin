@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "watchout.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "Sound_Off": {
+      "__uuid__": "c324ab11-811d-4e41-bc37-bb736493220a"
+    },
+    "Sound_On": {
+      "__uuid__": "f96bf598-527e-41fd-9a13-8c807156cbfe"
+    },
+    "back": {
+      "__uuid__": "30faed78-9c28-4c94-8328-2a2e8f835b8e"
+    },
+    "fangfang": {
+      "__uuid__": "6bd67a3d-7e4a-4d9f-b9a5-a7284ef5b5fc"
+    },
+    "fangfangWing": {
+      "__uuid__": "aed2115f-64d5-415c-8bb4-75b35c48f2df"
+    },
+    "game_over": {
+      "__uuid__": "ffee2c7c-3d68-4fb7-beb8-36cce469faf3"
+    },
+    "restart": {
+      "__uuid__": "7fb2ed72-25eb-4eed-a3d4-fb487a426f09"
+    },
+    "share": {
+      "__uuid__": "af860236-ec50-4910-a19b-7d7b12b0edaf"
+    },
+    "start_game": {
+      "__uuid__": "ecaebd68-8ccf-406a-aa74-7886c87427de"
+    },
+    "start_game1": {
+      "__uuid__": "c4eaecb7-085a-4bd0-ae18-ca6916a12c3c"
+    },
+    "yuanyuan": {
+      "__uuid__": "02e53bca-b22e-4769-98e0-753566b1639d"
+    },
+    "yuanyuanWing": {
+      "__uuid__": "70649682-7a4e-4058-a5a6-acb23421abb6"
+    }
+  }
+}

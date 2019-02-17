@@ -1,59 +1,59 @@
-2019-02-16T01:09:59.622Z - normal: Load ~/.CocosCreator/settings.json
-2019-02-16T01:09:59.626Z - normal: checking language setting...
-2019-02-16T01:09:59.626Z - normal: Language: zh
-2019-02-16T01:10:00.282Z - success: protocol editor-framework registered
-2019-02-16T01:10:00.282Z - success: protocol app registered
-2019-02-16T01:10:00.282Z - success: protocol theme registered
-2019-02-16T01:10:00.282Z - success: protocol packages registered
-2019-02-16T01:10:00.283Z - success: protocol unpack registerred
-2019-02-16T01:10:00.283Z - success: protocol disable-commonjs registerred
-2019-02-16T01:10:00.404Z - normal: connected!
-2019-02-16T01:10:00.406Z - normal: Check project /Users/liujingyan/weixin/cocosClient
-2019-02-16T01:10:00.409Z - normal: Initializing Cocos2d
-2019-02-16T01:10:00.595Z - normal: Initializing Asset Database
-2019-02-16T01:10:00.627Z - success: protocol uuid registerred
-2019-02-16T01:10:00.627Z - success: protocol db registerred
-2019-02-16T01:10:00.627Z - success: protocol thumbnail registerred
-2019-02-16T01:10:00.627Z - normal: Loading editor/builtin packages
-2019-02-16T01:10:00.646Z - success: anysdk loaded
-2019-02-16T01:10:00.765Z - success: assets loaded
-2019-02-16T01:10:00.769Z - success: builder loaded
-2019-02-16T01:10:00.771Z - success: cocos-analytics loaded
-2019-02-16T01:10:00.775Z - success: console loaded
-2019-02-16T01:10:00.810Z - success: fb-instant-games loaded
-2019-02-16T01:10:00.815Z - success: hierarchy loaded
-2019-02-16T01:10:00.819Z - success: inspector loaded
-2019-02-16T01:10:00.820Z - success: keystore loaded
-2019-02-16T01:10:00.824Z - success: node-library loaded
-2019-02-16T01:10:00.826Z - success: package-asset loaded
-2019-02-16T01:10:00.828Z - success: preferences loaded
-2019-02-16T01:10:00.831Z - success: project-exporter loaded
-2019-02-16T01:10:00.847Z - success: project-importer loaded
-2019-02-16T01:10:00.850Z - success: project-settings loaded
-2019-02-16T01:10:00.853Z - success: ui-kit loaded
-2019-02-16T01:10:00.858Z - success: ui-grid loaded
-2019-02-16T01:10:00.862Z - success: scene loaded
-2019-02-16T01:10:00.864Z - success: sprite-editor loaded
-2019-02-16T01:10:00.868Z - success: store loaded
-2019-02-16T01:10:00.873Z - success: timeline loaded
-2019-02-16T01:10:00.874Z - normal: Loading builtin packages
-2019-02-16T01:10:00.878Z - success: asset-db-debugger loaded
-2019-02-16T01:10:00.879Z - success: color-picker loaded
-2019-02-16T01:10:00.883Z - success: package-manager loaded
-2019-02-16T01:10:00.884Z - success: qqplay-adapter loaded
-2019-02-16T01:10:00.889Z - success: sdkbox loaded
-2019-02-16T01:10:00.893Z - success: tester loaded
-2019-02-16T01:10:00.896Z - success: ui-kit-preview-extra loaded
-2019-02-16T01:10:00.899Z - success: ui-kit-preview loaded
-2019-02-16T01:10:00.901Z - success: ui-tree loaded
-2019-02-16T01:10:00.903Z - success: weapp-adapter loaded
-2019-02-16T01:10:01.936Z - normal: Initializing project /Users/liujingyan/weixin/cocosClient
-2019-02-16T01:10:01.938Z - normal: Loading packages
-2019-02-16T01:10:01.943Z - normal: Watching packages
-2019-02-16T01:10:02.063Z - normal: Run Application
-2019-02-16T01:10:02.806Z - success: preview server running at http://localhost:7456
-2019-02-16T01:10:07.319Z - normal: 1.9.3
-2019-02-16T01:10:07.533Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+2019-02-17T04:35:47.691Z - normal: Load ~/.CocosCreator/settings.json
+2019-02-17T04:35:47.695Z - normal: checking language setting...
+2019-02-17T04:35:47.695Z - normal: Language: zh
+2019-02-17T04:35:48.289Z - success: protocol editor-framework registered
+2019-02-17T04:35:48.290Z - success: protocol app registered
+2019-02-17T04:35:48.290Z - success: protocol theme registered
+2019-02-17T04:35:48.290Z - success: protocol packages registered
+2019-02-17T04:35:48.291Z - success: protocol unpack registerred
+2019-02-17T04:35:48.291Z - success: protocol disable-commonjs registerred
+2019-02-17T04:35:48.389Z - normal: connected!
+2019-02-17T04:35:48.392Z - normal: Check project /Users/liujingyan/weixin/cocosClient
+2019-02-17T04:35:48.395Z - normal: Initializing Cocos2d
+2019-02-17T04:35:48.577Z - normal: Initializing Asset Database
+2019-02-17T04:35:48.609Z - success: protocol uuid registerred
+2019-02-17T04:35:48.609Z - success: protocol db registerred
+2019-02-17T04:35:48.609Z - success: protocol thumbnail registerred
+2019-02-17T04:35:48.610Z - normal: Loading editor/builtin packages
+2019-02-17T04:35:48.630Z - success: anysdk loaded
+2019-02-17T04:35:48.736Z - success: assets loaded
+2019-02-17T04:35:48.740Z - success: builder loaded
+2019-02-17T04:35:48.742Z - success: cocos-analytics loaded
+2019-02-17T04:35:48.746Z - success: console loaded
+2019-02-17T04:35:48.777Z - success: fb-instant-games loaded
+2019-02-17T04:35:48.782Z - success: hierarchy loaded
+2019-02-17T04:35:48.786Z - success: inspector loaded
+2019-02-17T04:35:48.787Z - success: keystore loaded
+2019-02-17T04:35:48.791Z - success: node-library loaded
+2019-02-17T04:35:48.793Z - success: package-asset loaded
+2019-02-17T04:35:48.794Z - success: preferences loaded
+2019-02-17T04:35:48.798Z - success: project-exporter loaded
+2019-02-17T04:35:48.812Z - success: project-importer loaded
+2019-02-17T04:35:48.816Z - success: project-settings loaded
+2019-02-17T04:35:48.819Z - success: ui-kit loaded
+2019-02-17T04:35:48.824Z - success: ui-grid loaded
+2019-02-17T04:35:48.828Z - success: scene loaded
+2019-02-17T04:35:48.829Z - success: sprite-editor loaded
+2019-02-17T04:35:48.832Z - success: store loaded
+2019-02-17T04:35:48.838Z - success: timeline loaded
+2019-02-17T04:35:48.838Z - normal: Loading builtin packages
+2019-02-17T04:35:48.842Z - success: asset-db-debugger loaded
+2019-02-17T04:35:48.842Z - success: color-picker loaded
+2019-02-17T04:35:48.846Z - success: package-manager loaded
+2019-02-17T04:35:48.847Z - success: qqplay-adapter loaded
+2019-02-17T04:35:48.853Z - success: sdkbox loaded
+2019-02-17T04:35:48.856Z - success: tester loaded
+2019-02-17T04:35:48.859Z - success: ui-kit-preview-extra loaded
+2019-02-17T04:35:48.863Z - success: ui-kit-preview loaded
+2019-02-17T04:35:48.865Z - success: ui-tree loaded
+2019-02-17T04:35:48.867Z - success: weapp-adapter loaded
+2019-02-17T04:35:49.749Z - normal: Initializing project /Users/liujingyan/weixin/cocosClient
+2019-02-17T04:35:49.751Z - normal: Loading packages
+2019-02-17T04:35:49.757Z - normal: Watching packages
+2019-02-17T04:35:49.868Z - normal: Run Application
+2019-02-17T04:35:50.222Z - success: preview server running at http://localhost:7456
+2019-02-17T04:35:54.279Z - normal: 1.9.3
+2019-02-17T04:35:54.513Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
     // Before:
     @property(...)
     value;
@@ -61,7 +61,7 @@
     // After:
     @property(...)
     value = 0;
-2019-02-16T01:10:07.534Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+2019-02-17T04:35:54.514Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
     // Before:
     @property(...)
     value;
@@ -69,7 +69,7 @@
     // After:
     @property(...)
     value = 0;
-2019-02-16T01:10:07.534Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+2019-02-17T04:35:54.514Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
     // Before:
     @property(...)
     value;
@@ -77,7 +77,482 @@
     // After:
     @property(...)
     value = 0;
-2019-02-16T01:10:30.496Z - normal: Start building with options : {
+2019-02-17T04:36:49.782Z - success: API data generated and copied to /Users/liujingyan/weixin/cocosClient/creator.d.ts
+2019-02-17T04:36:53.753Z - success: TypeScript Configuration file has been copied to /Users/liujingyan/weixin/cocosClient/tsconfig.json
+2019-02-17T04:36:58.354Z - success: Chrome debug setting has been updated to .vscode/launch.json, please install Debugger for Chrome VS Code extension to debug your project.
+2019-02-17T04:43:48.994Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T04:43:48.996Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T04:43:48.996Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T04:43:54.028Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T04:43:54.028Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T04:43:54.029Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T04:47:08.392Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T04:47:08.394Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T04:47:08.394Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T04:47:12.357Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T04:47:12.357Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T04:47:12.357Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T04:47:18.665Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T04:47:18.665Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T04:47:18.666Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:48:16.204Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:48:16.205Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:48:16.206Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:48:34.233Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:48:34.233Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:48:34.233Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:48:50.821Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:48:50.822Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:48:50.822Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:54:46.923Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:54:46.925Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:54:46.925Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:54:46.925Z - warn: Please specifiy a default value for "backButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:54:46.926Z - warn: Please specifiy a default value for "shareButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:54:46.926Z - warn: Please specifiy a default value for "rankingScrollView" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:54:46.927Z - warn: Please specifiy a default value for "backButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:54:50.108Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:54:50.109Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:54:50.109Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:54:50.110Z - warn: Please specifiy a default value for "backButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:54:50.110Z - warn: Please specifiy a default value for "shareButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:54:50.110Z - warn: Please specifiy a default value for "rankingScrollView" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:54:50.111Z - warn: Please specifiy a default value for "backButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:55:02.574Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:55:02.574Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:55:02.574Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:55:02.575Z - warn: Please specifiy a default value for "backButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:55:02.575Z - warn: Please specifiy a default value for "shareButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:55:02.575Z - warn: Please specifiy a default value for "rankingScrollView" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T05:55:02.575Z - warn: Please specifiy a default value for "backButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T06:53:39.350Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T06:53:39.351Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T06:53:39.352Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T06:53:39.352Z - warn: Please specifiy a default value for "backButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T06:53:39.353Z - warn: Please specifiy a default value for "shareButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T06:53:39.353Z - warn: Please specifiy a default value for "rankingScrollView" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T06:53:39.353Z - warn: Please specifiy a default value for "shareTicket" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:03:57.794Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:03:57.795Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:03:57.795Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:03:57.801Z - warn: Please specifiy a default value for "backButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:03:57.801Z - warn: Please specifiy a default value for "shareButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:03:57.801Z - warn: Please specifiy a default value for "rankingScrollView" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:03:57.802Z - warn: Please specifiy a default value for "shareTicket" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:04:05.860Z - normal: Start building with options : {
   "androidStudio": true,
   "apiLevel": "",
   "appABIs": [],
@@ -139,28 +614,46 @@
   "projectName": "helloworld",
   "debugBuildWorker": false
 }
-2019-02-16T01:10:30.498Z - normal: Building /Users/liujingyan/weixin/cocosClient
-2019-02-16T01:10:30.498Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
-2019-02-16T01:10:30.780Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
-2019-02-16T01:10:32.793Z - normal: Compiled project javascript file successfully
-2019-02-16T01:10:32.793Z - normal: Start building assets
-2019-02-16T01:10:32.794Z - normal: Start spawn build-worker
-2019-02-16T01:10:33.456Z - normal: Finish spawn build-worker
-2019-02-16T01:10:33.457Z - normal: Start init build-worker
-2019-02-16T01:10:35.412Z - normal: 1.9.3
-2019-02-16T01:10:35.497Z - normal: Finish init build-worker
-2019-02-16T01:10:35.497Z - normal: Start build-assets in worker
-2019-02-16T01:10:35.677Z - normal: Finish build-assets in worker
-2019-02-16T01:10:35.680Z - normal: Finish building assets
-2019-02-16T01:10:35.685Z - normal: Start building raw assets
-2019-02-16T01:10:35.686Z - normal: Start building plugin scripts
-2019-02-16T01:10:35.737Z - normal: Finish building raw assets
-2019-02-16T01:10:35.742Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
-2019-02-16T01:10:37.347Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
-2019-02-16T02:18:05.875Z - warn: The Node referenced by component "Helloworld" is invalid. Detailed information:
-Node path: "Canvas/root"
+2019-02-17T07:04:05.863Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-17T07:04:05.863Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-17T07:04:06.198Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-17T07:04:08.286Z - normal: Compiled project javascript file successfully
+2019-02-17T07:04:08.287Z - normal: Start building assets
+2019-02-17T07:04:08.288Z - normal: Start spawn build-worker
+2019-02-17T07:04:08.963Z - normal: Finish spawn build-worker
+2019-02-17T07:04:08.963Z - normal: Start init build-worker
+2019-02-17T07:04:11.027Z - normal: 1.9.3
+2019-02-17T07:04:11.128Z - normal: Finish init build-worker
+2019-02-17T07:04:11.128Z - normal: Start build-assets in worker
+2019-02-17T07:04:11.282Z - warn: Script attached to "RankingListView" in prefab "RankingListView.prefab" is missing or invalid. Detailed information:
+Node path: "RankingListView"
+Asset url: "db://assets/resources/panel/RankingListView.prefab"
+Script UUID: "31b56b49-5a3a-4f96-b702-0174f08b250c"
+Class ID: "31b56tJWjpPlrcCAXTwiyUM"
 
-2019-02-16T02:18:13.883Z - normal: Start building with options : {
+2019-02-17T07:04:11.328Z - warn: The referenced asset used in "db://assets/resources/panel/RankingListView.prefab" is not found, it may have been deleted. Detailed information:
+Used by "cc.PrefabInfo"
+uuid: "a7431789-81ef-4295-8a91-670fc7503128"
+2019-02-17T07:04:11.329Z - warn: The referenced asset used in "db://assets/resources/panel/RankingListView.prefab" is not found, it may have been deleted. Detailed information:
+Node path: "RankingListView/backButton"
+Used in Component: "cc.Sprite"
+uuid: "d8c06cad-62f4-4b8f-9654-229b455638d5"
+2019-02-17T07:04:11.330Z - warn: The referenced asset used in "db://assets/resources/panel/RankingListView.prefab" is not found, it may have been deleted. Detailed information:
+Node path: "RankingListView/backButton"
+Used in Component: "cc.Sprite"
+uuid: "b03424fc-b92f-45ac-9763-c4d06dd8d1ae"
+2019-02-17T07:04:11.332Z - warn: The referenced asset used in "db://assets/resources/panel/RankingListView.prefab" is not found, it may have been deleted. Detailed information:
+Node path: "RankingListView/shareButton"
+Used in Component: "cc.Sprite"
+uuid: "0fa9b976-09f3-4efd-9dee-4e24b8c0cb7f"
+2019-02-17T07:04:11.441Z - normal: Finish build-assets in worker
+2019-02-17T07:04:11.443Z - normal: Finish building assets
+2019-02-17T07:04:11.451Z - normal: Start building raw assets
+2019-02-17T07:04:11.452Z - normal: Start building plugin scripts
+2019-02-17T07:04:11.505Z - normal: Finish building raw assets
+2019-02-17T07:04:11.509Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-17T07:04:13.099Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-17T07:04:38.618Z - normal: Start building with options : {
   "androidStudio": true,
   "apiLevel": "",
   "appABIs": [],
@@ -222,22 +715,701 @@ Node path: "Canvas/root"
   "projectName": "helloworld",
   "debugBuildWorker": false
 }
-2019-02-16T02:18:13.885Z - normal: Building /Users/liujingyan/weixin/cocosClient
-2019-02-16T02:18:13.886Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
-2019-02-16T02:18:13.887Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
-2019-02-16T02:18:15.664Z - normal: Compiled project javascript file successfully
-2019-02-16T02:18:15.664Z - normal: Start building assets
-2019-02-16T02:18:15.664Z - normal: Start spawn build-worker
-2019-02-16T02:18:16.463Z - normal: Finish spawn build-worker
-2019-02-16T02:18:16.463Z - normal: Start init build-worker
-2019-02-16T02:18:18.464Z - normal: 1.9.3
-2019-02-16T02:18:18.546Z - normal: Finish init build-worker
-2019-02-16T02:18:18.546Z - normal: Start build-assets in worker
-2019-02-16T02:18:18.710Z - normal: Finish build-assets in worker
-2019-02-16T02:18:18.712Z - normal: Finish building assets
-2019-02-16T02:18:18.718Z - normal: Start building raw assets
-2019-02-16T02:18:18.719Z - normal: Start building plugin scripts
-2019-02-16T02:18:18.759Z - normal: Finish building raw assets
-2019-02-16T02:18:18.763Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
-2019-02-16T02:18:19.887Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
-2019-02-16T02:19:49.815Z - info: shutdown preview server
+2019-02-17T07:04:38.620Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-17T07:04:38.620Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-17T07:04:38.620Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-17T07:04:40.605Z - normal: Compiled project javascript file successfully
+2019-02-17T07:04:40.606Z - normal: Start building assets
+2019-02-17T07:04:40.606Z - normal: Start spawn build-worker
+2019-02-17T07:04:41.287Z - normal: Finish spawn build-worker
+2019-02-17T07:04:41.288Z - normal: Start init build-worker
+2019-02-17T07:04:43.290Z - normal: 1.9.3
+2019-02-17T07:04:43.370Z - normal: Finish init build-worker
+2019-02-17T07:04:43.370Z - normal: Start build-assets in worker
+2019-02-17T07:04:43.545Z - warn: Script attached to "RankingListView" in prefab "RankingListView.prefab" is missing or invalid. Detailed information:
+Node path: "RankingListView"
+Asset url: "db://assets/resources/panel/RankingListView.prefab"
+Script UUID: "31b56b49-5a3a-4f96-b702-0174f08b250c"
+Class ID: "31b56tJWjpPlrcCAXTwiyUM"
+
+2019-02-17T07:04:43.575Z - warn: The referenced asset used in "db://assets/resources/panel/RankingListView.prefab" is not found, it may have been deleted. Detailed information:
+Used by "cc.PrefabInfo"
+uuid: "a7431789-81ef-4295-8a91-670fc7503128"
+2019-02-17T07:04:43.576Z - warn: The referenced asset used in "db://assets/resources/panel/RankingListView.prefab" is not found, it may have been deleted. Detailed information:
+Node path: "RankingListView/backButton"
+Used in Component: "cc.Sprite"
+uuid: "d8c06cad-62f4-4b8f-9654-229b455638d5"
+2019-02-17T07:04:43.578Z - warn: The referenced asset used in "db://assets/resources/panel/RankingListView.prefab" is not found, it may have been deleted. Detailed information:
+Node path: "RankingListView/backButton"
+Used in Component: "cc.Sprite"
+uuid: "b03424fc-b92f-45ac-9763-c4d06dd8d1ae"
+2019-02-17T07:04:43.586Z - warn: The referenced asset used in "db://assets/resources/panel/RankingListView.prefab" is not found, it may have been deleted. Detailed information:
+Node path: "RankingListView/shareButton"
+Used in Component: "cc.Sprite"
+uuid: "0fa9b976-09f3-4efd-9dee-4e24b8c0cb7f"
+2019-02-17T07:04:43.668Z - normal: Finish build-assets in worker
+2019-02-17T07:04:43.671Z - normal: Finish building assets
+2019-02-17T07:04:43.677Z - normal: Start building raw assets
+2019-02-17T07:04:43.678Z - normal: Start building plugin scripts
+2019-02-17T07:04:43.734Z - normal: Finish building raw assets
+2019-02-17T07:04:43.736Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-17T07:04:44.585Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-17T07:04:53.220Z - warn: Script attached to "RankingListView" in prefab "RankingListView.prefab" is missing or invalid. Detailed information:
+Node path: "RankingListView"
+Asset url: "db://assets/resources/panel/RankingListView.prefab"
+Script UUID: "31b56b49-5a3a-4f96-b702-0174f08b250c"
+Class ID: "31b56tJWjpPlrcCAXTwiyUM"
+
+2019-02-17T07:04:53.227Z - warn: The Asset used in prefab "RankingListView.prefab" is missing. Detailed information:
+Asset url: "db://assets/resources/panel/RankingListView.prefab"
+Missing uuid: "a7431789-81ef-4295-8a91-670fc7503128"
+
+2019-02-17T07:04:53.229Z - warn: The Asset used in prefab "RankingListView.prefab" is missing. Detailed information:
+Asset url: "db://assets/resources/panel/RankingListView.prefab"
+Missing uuid: "a7431789-81ef-4295-8a91-670fc7503128"
+
+2019-02-17T07:04:53.230Z - warn: The Asset used in prefab "RankingListView.prefab" is missing. Detailed information:
+Asset url: "db://assets/resources/panel/RankingListView.prefab"
+Missing uuid: "a7431789-81ef-4295-8a91-670fc7503128"
+
+2019-02-17T07:04:53.230Z - warn: The Asset used in prefab "RankingListView.prefab" is missing. Detailed information:
+Asset url: "db://assets/resources/panel/RankingListView.prefab"
+Missing uuid: "a7431789-81ef-4295-8a91-670fc7503128"
+
+2019-02-17T07:04:53.230Z - warn: The Asset used by component "cc.Sprite" in prefab "RankingListView.prefab" is missing. Detailed information:
+Node path: "RankingListView/backButton"
+Asset url: "db://assets/resources/panel/RankingListView.prefab"
+Missing uuid: "d8c06cad-62f4-4b8f-9654-229b455638d5"
+
+2019-02-17T07:04:53.230Z - warn: The Asset used by component "cc.Sprite" in prefab "RankingListView.prefab" is missing. Detailed information:
+Node path: "RankingListView/backButton"
+Asset url: "db://assets/resources/panel/RankingListView.prefab"
+Missing uuid: "b03424fc-b92f-45ac-9763-c4d06dd8d1ae"
+
+2019-02-17T07:04:53.231Z - warn: The Asset used in prefab "RankingListView.prefab" is missing. Detailed information:
+Asset url: "db://assets/resources/panel/RankingListView.prefab"
+Missing uuid: "a7431789-81ef-4295-8a91-670fc7503128"
+
+2019-02-17T07:04:53.231Z - warn: The Asset used by component "cc.Sprite" in prefab "RankingListView.prefab" is missing. Detailed information:
+Node path: "RankingListView/shareButton"
+Asset url: "db://assets/resources/panel/RankingListView.prefab"
+Missing uuid: "0fa9b976-09f3-4efd-9dee-4e24b8c0cb7f"
+
+2019-02-17T07:04:53.231Z - warn: The Asset used by component "cc.Sprite" in prefab "RankingListView.prefab" is missing. Detailed information:
+Node path: "RankingListView/shareButton"
+Asset url: "db://assets/resources/panel/RankingListView.prefab"
+Missing uuid: "b03424fc-b92f-45ac-9763-c4d06dd8d1ae"
+
+2019-02-17T07:04:53.231Z - warn: The Asset used in prefab "RankingListView.prefab" is missing. Detailed information:
+Asset url: "db://assets/resources/panel/RankingListView.prefab"
+Missing uuid: "a7431789-81ef-4295-8a91-670fc7503128"
+
+2019-02-17T07:04:53.232Z - warn: The Asset used in prefab "RankingListView.prefab" is missing. Detailed information:
+Asset url: "db://assets/resources/panel/RankingListView.prefab"
+Missing uuid: "a7431789-81ef-4295-8a91-670fc7503128"
+
+2019-02-17T07:04:53.233Z - warn: The Asset used in prefab "RankingListView.prefab" is missing. Detailed information:
+Asset url: "db://assets/resources/panel/RankingListView.prefab"
+Missing uuid: "a7431789-81ef-4295-8a91-670fc7503128"
+
+2019-02-17T07:06:13.946Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "2",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx71cb660e6998b9f2",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "wx-open-data-project"
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-17T07:06:13.949Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-17T07:06:13.949Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-17T07:06:13.950Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-17T07:06:15.993Z - normal: Compiled project javascript file successfully
+2019-02-17T07:06:15.994Z - normal: Start building assets
+2019-02-17T07:06:15.994Z - normal: Start spawn build-worker
+2019-02-17T07:06:16.674Z - normal: Finish spawn build-worker
+2019-02-17T07:06:16.674Z - normal: Start init build-worker
+2019-02-17T07:06:18.736Z - normal: 1.9.3
+2019-02-17T07:06:18.820Z - normal: Finish init build-worker
+2019-02-17T07:06:18.820Z - normal: Start build-assets in worker
+2019-02-17T07:06:19.081Z - normal: Finish build-assets in worker
+2019-02-17T07:06:19.083Z - normal: Finish building assets
+2019-02-17T07:06:19.091Z - normal: Start building raw assets
+2019-02-17T07:06:19.092Z - normal: Start building plugin scripts
+2019-02-17T07:06:19.145Z - normal: Finish building raw assets
+2019-02-17T07:06:19.150Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-17T07:06:20.325Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-17T07:17:05.156Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:17:05.159Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:17:05.159Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:17:05.160Z - warn: Please specifiy a default value for "backButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:17:05.160Z - warn: Please specifiy a default value for "shareButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:17:05.160Z - warn: Please specifiy a default value for "rankingScrollView" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:17:05.160Z - warn: Please specifiy a default value for "shareTicket" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:20:46.407Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:20:46.409Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:20:46.410Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:20:46.411Z - warn: Please specifiy a default value for "backButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:20:46.411Z - warn: Please specifiy a default value for "shareButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:20:46.412Z - warn: Please specifiy a default value for "rankingScrollView" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:20:46.412Z - warn: Please specifiy a default value for "shareTicket" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:23:11.670Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:23:11.672Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:23:11.672Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:23:11.673Z - warn: Please specifiy a default value for "backButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:23:11.673Z - warn: Please specifiy a default value for "shareButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:23:11.673Z - warn: Please specifiy a default value for "rankingScrollView" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:23:11.673Z - warn: Please specifiy a default value for "shareTicket" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:23:11.829Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "2",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx71cb660e6998b9f2",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "wx-open-data-project"
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-17T07:23:11.831Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-17T07:23:11.831Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-17T07:23:11.832Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-17T07:24:01.173Z - normal: Compiled project javascript file successfully
+2019-02-17T07:24:01.175Z - normal: Start building assets
+2019-02-17T07:24:01.175Z - normal: Start spawn build-worker
+2019-02-17T07:24:01.816Z - normal: Finish spawn build-worker
+2019-02-17T07:24:01.816Z - normal: Start init build-worker
+2019-02-17T07:24:03.754Z - normal: 1.9.3
+2019-02-17T07:24:03.846Z - normal: Finish init build-worker
+2019-02-17T07:24:03.846Z - normal: Start build-assets in worker
+2019-02-17T07:24:04.112Z - normal: Finish build-assets in worker
+2019-02-17T07:24:04.114Z - normal: Finish building assets
+2019-02-17T07:24:04.123Z - normal: Start building raw assets
+2019-02-17T07:24:04.124Z - normal: Start building plugin scripts
+2019-02-17T07:24:04.178Z - normal: Finish building raw assets
+2019-02-17T07:24:04.181Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-17T07:24:05.547Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-17T07:30:41.122Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:30:41.123Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:30:41.123Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:30:41.124Z - warn: Please specifiy a default value for "backButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:30:41.124Z - warn: Please specifiy a default value for "shareButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:30:41.124Z - warn: Please specifiy a default value for "rankingScrollView" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:30:41.124Z - warn: Please specifiy a default value for "shareTicket" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:30:45.974Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "2",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx71cb660e6998b9f2",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "wx-open-data-project"
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-17T07:30:45.983Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-17T07:30:45.983Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-17T07:30:45.984Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-17T07:31:44.012Z - normal: Compiled project javascript file successfully
+2019-02-17T07:31:44.013Z - normal: Start building assets
+2019-02-17T07:31:44.014Z - normal: Start spawn build-worker
+2019-02-17T07:31:44.662Z - normal: Finish spawn build-worker
+2019-02-17T07:31:44.662Z - normal: Start init build-worker
+2019-02-17T07:31:46.629Z - normal: 1.9.3
+2019-02-17T07:31:46.714Z - normal: Finish init build-worker
+2019-02-17T07:31:46.714Z - normal: Start build-assets in worker
+2019-02-17T07:31:46.976Z - normal: Finish build-assets in worker
+2019-02-17T07:31:46.978Z - normal: Finish building assets
+2019-02-17T07:31:46.986Z - normal: Start building raw assets
+2019-02-17T07:31:46.987Z - normal: Start building plugin scripts
+2019-02-17T07:31:47.095Z - normal: Finish building raw assets
+2019-02-17T07:31:47.098Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-17T07:31:48.424Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-17T07:34:54.940Z - warn: Please specifiy a default value for "label" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:34:54.942Z - warn: Please specifiy a default value for "touxiang" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:34:54.942Z - warn: Please specifiy a default value for "opendataRoot" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:34:54.943Z - warn: Please specifiy a default value for "backButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:34:54.943Z - warn: Please specifiy a default value for "shareButton" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:34:54.943Z - warn: Please specifiy a default value for "rankingScrollView" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:34:54.944Z - warn: Please specifiy a default value for "shareTicket" property at its declaration: 😂
+    // Before:
+    @property(...)
+    value;
+
+    // After:
+    @property(...)
+    value = 0;
+2019-02-17T07:36:40.571Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/liujingyan/weixin/cocosClient/build",
+  "debug": false,
+  "dest": "/Users/liujingyan/weixin/cocosClient/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "2",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "helloworld",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx71cb660e6998b9f2",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "wx-open-data-project"
+  },
+  "xxteaKey": "4f254add-1d78-41",
+  "zipCompressJs": true,
+  "project": "/Users/liujingyan/weixin/cocosClient",
+  "projectName": "helloworld",
+  "debugBuildWorker": false
+}
+2019-02-17T07:36:40.582Z - normal: Building /Users/liujingyan/weixin/cocosClient
+2019-02-17T07:36:40.583Z - normal: Destination /Users/liujingyan/weixin/cocosClient/build/wechatgame
+2019-02-17T07:36:40.585Z - normal: Delete /Users/liujingyan/weixin/cocosClient/build/wechatgame/**/*
+2019-02-17T07:37:41.582Z - normal: Compiled project javascript file successfully
+2019-02-17T07:37:41.584Z - normal: Start building assets
+2019-02-17T07:37:41.584Z - normal: Start spawn build-worker
+2019-02-17T07:37:42.298Z - normal: Finish spawn build-worker
+2019-02-17T07:37:42.298Z - normal: Start init build-worker
+2019-02-17T07:37:44.331Z - normal: 1.9.3
+2019-02-17T07:37:44.424Z - normal: Finish init build-worker
+2019-02-17T07:37:44.424Z - normal: Start build-assets in worker
+2019-02-17T07:37:44.692Z - normal: Finish build-assets in worker
+2019-02-17T07:37:44.694Z - normal: Finish building assets
+2019-02-17T07:37:44.702Z - normal: Start building raw assets
+2019-02-17T07:37:44.703Z - normal: Start building plugin scripts
+2019-02-17T07:37:44.805Z - normal: Finish building raw assets
+2019-02-17T07:37:44.809Z - normal: Generating main.js from /Applications/CocosCreator_1.9.app/Contents/Resources/static/build-templates/shares/main.js
+2019-02-17T07:37:46.037Z - normal: Built to "/Users/liujingyan/weixin/cocosClient/build/wechatgame" successfully
+2019-02-17T07:38:00.655Z - info: shutdown preview server

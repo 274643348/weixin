@@ -1,3 +1,6 @@
+import { gameTools } from "./GameTools";
+import { GameConfig } from "./GameConfig";
+
 //获取微信界面大小
 let width = 0;
 let height = 0;
@@ -141,41 +144,101 @@ export function createUserInfoButton(lable: cc.Node) {
 }
 
 /////////////////////////////游戏圈相关
-export function getGameClub(lable: cc.Node) {
+export function createGameClub() {
+  console.log("ljy------CreateClub");
+
+  let info = window.wx.getSystemInfoSync();
   const button = wx.createGameClubButton({
     icon: "green",
     style: {
-      left: 10,
-      top: 76,
+      left: info.windowWidth / 6,
+      top: info.windowHeight * 91 / 100,
       width: 40,
       height: 40
     }
   });
+
+  button.hide();
+  return button;
 }
 
 ////////////////////////////分享功能
 
 export function showMenu() {
+  console.log("ljy------showShareMenu");
+  //更多转发信息 设置 withShareTicket 为 true
+  wx.showShareMenu({withShareTicket: true});
+}
+
+export function onShareAppMessage(){
   wx.onShareAppMessage(function() {
     // 用户点击了“转发”按钮
     return {
-      title: "玩家手动"
+      title: "玩家手动",
+      // TODO
+      // imageUrl: canvas.toTempFilePathSync({
+      //     destWidth: 500,
+      //     destHeight: 400
+      // })
     };
   });
-  wx.showShareMenu();
 }
+
+
 export function hideMenu() {
   wx.hideShareMenu();
 }
 
-export function shareAppMessage() {
-  wx.shareAppMessage({
-    title: "直接分享"
-  });
+export function shareAppMessage(pictureName:string) {
+  // wx.shareAppMessage({
+  //   title: "直接分享"
+  // });
+
+  let titleStr = '快来跟我一起挑战大鸟撞小鸟吧。';
+  if ("shareTicket" == pictureName) {
+      titleStr = "看看你在群里排第几？快来和我挑战大鸟撞小鸟吧。";
+  } else if (pictureName != undefined && pictureName != null) {
+      // titleStr = "我得了" + pictureName + "分," + titleStr;
+  }
+  if (cc.sys.platform === cc.sys.WECHAT_GAME) {
+      wx.shareAppMessage({
+          title: titleStr,
+          query: "x=" + GameConfig.MAIN_MENU_NUM,
+          // imageUrl: canvas.toTempFilePathSync({
+          //     destWidth: 500,
+          //     destHeight: 400
+          // }),
+          success: (res) => {
+              if (res.shareTickets != undefined && res.shareTickets.length > 0) {
+                  if ("shareTicket" == pictureName) {
+                      wx.postMessage({
+                          messageType: 5,
+                          MAIN_MENU_NUM: GameConfig.MAIN_MENU_NUM,
+                          shareTicket: res.shareTickets[0]
+                      });
+                  }
+              }
+          }
+      });
+  } else {
+      this.toastMessage(1);
+      cc.log("执行了截图" + titleStr);
+  }
 }
 
 //////////////////////////////获取好友链,群玩家数据链
 
+export function LaunchOptions(){
+  
+  //如果小游戏启动时的参数存在则显示好友排行
+  let LaunchOption = wx.getLaunchOptionsSync();
+  if (LaunchOption.shareTicket != undefined) {
+      setTimeout(() => {
+          console.log("shareTicket", LaunchOption)
+          gameTools.getRankData(LaunchOption.shareTicket);
+      }, 3000);
+  }
+}
 //调用会失败(必须放在开放数据域中)
 export function getGroupCloudStorage() {
   wx.getGroupCloudStorage({
@@ -213,23 +276,23 @@ export function getUserCloudStorage(score: string, label: cc.Label) {
 
 //主域和开放数据域的通信---开放数据域不能向主域发送消息。
 export function my_postMessage(type: string, data: string) {
-  const openDataContext = wx.getOpenDataContext();
-  /**
-   * type
-   * 1:getUserCloudStorage
-   * 2:getFriendCloudStorage
-   * 3:getGroupCloudStorage
-   */
-  openDataContext.postMessage({
-    text: type,
-    data: data
-  });
+  // const openDataContext = wx.getOpenDataContext();
+  // /**
+  //  * type
+  //  * 1:getUserCloudStorage
+  //  * 2:getFriendCloudStorage
+  //  * 3:getGroupCloudStorage
+  //  */
+  // openDataContext.postMessage({
+  //   text: type,
+  //   data: data
+  // });
 }
 
 //////////////////////////////托管用户数据
-export function setUserCloudStorage(score: string) {
+export function setUserCloudStorage(data:any) {
   wx.setUserCloudStorage({
-    KVDataList: [{ key: "score", value: score }],
+    KVDataList: [data],
     success: res => {
       console.log("setUserCloudStorage success ---  ", res);
     },
